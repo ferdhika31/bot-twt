@@ -1,0 +1,87 @@
+E:\VB.net\twt\Twt\Twt\bin\Debug\Twt.exe
+E:\VB.net\twt\Twt\Twt\bin\Debug\Twt.pdb
+E:\VB.net\twt\Twt\Twt\bin\Debug\Twt.xml
+E:\VB.net\twt\Twt\Twt\obj\Debug\ResolveAssemblyReference.cache
+E:\VB.net\twt\Twt\Twt\obj\Debug\WindowsApplication1.Resources.resources
+E:\VB.net\twt\Twt\Twt\obj\Debug\WindowsApplication1.yopmail.resources
+E:\VB.net\twt\Twt\Twt\obj\Debug\Twt.vbproj.GenerateResource.Cache
+E:\VB.net\twt\Twt\Twt\obj\Debug\Twt.exe
+E:\VB.net\twt\Twt\Twt\obj\Debug\Twt.xml
+E:\VB.net\twt\Twt\Twt\obj\Debug\Twt.pdb
+E:\VB.net\twt\Twt\Twt\obj\Debug\WindowsApplication1.mimiti.resources
+E:\VB.net\twt\Twt\Twt\obj\Debug\WindowsApplication1.pengaturan.resources
+E:\VB.net\twt\Twt\Twt\obj\Debug\WindowsApplication1.main.resources
+E:\VB.net\twt\Twt\Twt\obj\Debug\WindowsApplication1.copy.resources
+E:\VB.net\twt\Twt\Twt\obj\Debug\WindowsApplication1.About.resources
+E:\Sakola\Twt\Twt\obj\Debug\Twt.exe
+E:\Sakola\Twt\Twt\obj\Debug\Twt.xml
+E:\Sakola\Twt\Twt\obj\Debug\Twt.pdb
+E:\Sakola\Twt\Twt\bin\Debug\Twt.exe
+E:\Sakola\Twt\Twt\bin\Debug\Twt.pdb
+E:\Sakola\Twt\Twt\bin\Debug\Twt.xml
+E:\Sakola\Twt\Twt\bin\Debug\MySql.Data.dll
+E:\Sakola\Twt\Twt\obj\Debug\ResolveAssemblyReference.cache
+E:\Sakola\Twt\Twt\obj\Debug\Twt.vbproj.GenerateResource.Cache
+E:\Sakola\Twt\Twt\obj\Debug\TwitteCreatebyLangit.About.resources
+E:\Sakola\Twt\Twt\obj\Debug\TwitteCreatebyLangit.harga.resources
+E:\Sakola\Twt\Twt\obj\Debug\TwitteCreatebyLangit.copy.resources
+E:\Sakola\Twt\Twt\obj\Debug\TwitteCreatebyLangit.login.resources
+E:\Sakola\Twt\Twt\obj\Debug\TwitteCreatebyLangit.main.resources
+E:\Sakola\Twt\Twt\obj\Debug\TwitteCreatebyLangit.mimiti.resources
+E:\Sakola\Twt\Twt\obj\Debug\TwitteCreatebyLangit.Resources.resources
+E:\Sakola\Twt\Twt\obj\Debug\TwitteCreatebyLangit.pengaturan.resources
+E:\Sakola\Twt\Twt\obj\Debug\TwitteCreatebyLangit.yopmail.resources
+E:\Sakola\Twt - Copy\Twt\obj\Debug\Twt.exe
+E:\Sakola\Twt - Copy\Twt\obj\Debug\Twt.xml
+E:\Sakola\Twt - Copy\Twt\obj\Debug\Twt.pdb
+E:\Sakola\Twt - Copy\Twt\bin\Debug\Twt.exe
+E:\Sakola\Twt - Copy\Twt\bin\Debug\Twt.pdb
+E:\Sakola\Twt - Copy\Twt\bin\Debug\Twt.xml
+E:\Sakola\Twt - Copy\Twt\bin\Debug\MySql.Data.dll
+E:\Sakola\Twt - Copy\Twt\obj\Debug\ResolveAssemblyReference.cache
+E:\Sakola\Twt - Copy\Twt\obj\Debug\TwitteCreatebyLangit.About.resources
+E:\Sakola\Twt - Copy\Twt\obj\Debug\TwitteCreatebyLangit.harga.resources
+E:\Sakola\Twt - Copy\Twt\obj\Debug\TwitteCreatebyLangit.copy.resources
+E:\Sakola\Twt - Copy\Twt\obj\Debug\TwitteCreatebyLangit.login.resources
+E:\Sakola\Twt - Copy\Twt\obj\Debug\TwitteCreatebyLangit.main.resources
+E:\Sakola\Twt - Copy\Twt\obj\Debug\TwitteCreatebyLangit.mimiti.resources
+E:\Sakola\Twt - Copy\Twt\obj\Debug\TwitteCreatebyLangit.Resources.resources
+E:\Sakola\Twt - Copy\Twt\obj\Debug\TwitteCreatebyLangit.pengaturan.resources
+E:\Sakola\Twt - Copy\Twt\obj\Debug\TwitteCreatebyLangit.yopmail.resources
+E:\Sakola\Twt - Copy\Twt\obj\Debug\Twt.vbproj.GenerateResource.Cache
+E:\Sakola\Twitter Akun Creator Bot\Twt - Final\Twt\obj\Debug\Twt.exe
+E:\Sakola\Twitter Akun Creator Bot\Twt - Final\Twt\obj\Debug\Twt.xml
+E:\Sakola\Twitter Akun Creator Bot\Twt - Final\Twt\obj\Debug\Twt.pdb
+E:\Sakola\Twitter Akun Creator Bot\Twt - Final\Twt\bin\Debug\Twt.exe
+E:\Sakola\Twitter Akun Creator Bot\Twt - Final\Twt\bin\Debug\Twt.pdb
+E:\Sakola\Twitter Akun Creator Bot\Twt - Final\Twt\bin\Debug\Twt.xml
+E:\Sakola\Twitter Akun Creator Bot\Twt - Final\Twt\bin\Debug\MySql.Data.dll
+E:\Sakola\Twitter Akun Creator Bot\Twt - Final\Twt\obj\Debug\ResolveAssemblyReference.cache
+E:\Sakola\Twitter Akun Creator Bot\Twt - Final\Twt\obj\Debug\TwitteCreatebyLangit.About.resources
+E:\Sakola\Twitter Akun Creator Bot\Twt - Final\Twt\obj\Debug\TwitteCreatebyLangit.harga.resources
+E:\Sakola\Twitter Akun Creator Bot\Twt - Final\Twt\obj\Debug\TwitteCreatebyLangit.copy.resources
+E:\Sakola\Twitter Akun Creator Bot\Twt - Final\Twt\obj\Debug\TwitteCreatebyLangit.login.resources
+E:\Sakola\Twitter Akun Creator Bot\Twt - Final\Twt\obj\Debug\TwitteCreatebyLangit.main.resources
+E:\Sakola\Twitter Akun Creator Bot\Twt - Final\Twt\obj\Debug\TwitteCreatebyLangit.mimiti.resources
+E:\Sakola\Twitter Akun Creator Bot\Twt - Final\Twt\obj\Debug\TwitteCreatebyLangit.Resources.resources
+E:\Sakola\Twitter Akun Creator Bot\Twt - Final\Twt\obj\Debug\TwitteCreatebyLangit.pengaturan.resources
+E:\Sakola\Twitter Akun Creator Bot\Twt - Final\Twt\obj\Debug\TwitteCreatebyLangit.yopmail.resources
+E:\Sakola\Twitter Akun Creator Bot\Twt - Final\Twt\obj\Debug\Twt.vbproj.GenerateResource.Cache
+E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\obj\Debug\Twt.exe
+E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\obj\Debug\Twt.xml
+E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\obj\Debug\Twt.pdb
+E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\bin\Debug\Twt.exe
+E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\bin\Debug\Twt.pdb
+E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\bin\Debug\Twt.xml
+E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\bin\Debug\MySql.Data.dll
+E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\obj\Debug\ResolveAssemblyReference.cache
+E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\obj\Debug\TwitteCreatebyLangit.About.resources
+E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\obj\Debug\TwitteCreatebyLangit.harga.resources
+E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\obj\Debug\TwitteCreatebyLangit.copy.resources
+E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\obj\Debug\TwitteCreatebyLangit.login.resources
+E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\obj\Debug\TwitteCreatebyLangit.main.resources
+E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\obj\Debug\TwitteCreatebyLangit.mimiti.resources
+E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\obj\Debug\TwitteCreatebyLangit.Resources.resources
+E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\obj\Debug\TwitteCreatebyLangit.pengaturan.resources
+E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\obj\Debug\TwitteCreatebyLangit.yopmail.resources
+E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\obj\Debug\Twt.vbproj.GenerateResource.Cache

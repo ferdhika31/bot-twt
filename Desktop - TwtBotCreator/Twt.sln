@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Twt", "Twt\Twt.vbproj", "{04008FC4-A920-45D8-BAAF-13CD386A08BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04008FC4-A920-45D8-BAAF-13CD386A08BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04008FC4-A920-45D8-BAAF-13CD386A08BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04008FC4-A920-45D8-BAAF-13CD386A08BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04008FC4-A920-45D8-BAAF-13CD386A08BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

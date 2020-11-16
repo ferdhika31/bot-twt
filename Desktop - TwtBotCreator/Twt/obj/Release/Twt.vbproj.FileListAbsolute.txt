@@ -1,0 +1,5 @@
+E:\VB.net\twt\Twt\Twt\obj\Release\ResolveAssemblyReference.cache
+E:\VB.net\twt\Twt\Twt\obj\Release\WindowsApplication1.Form1.resources
+E:\VB.net\twt\Twt\Twt\obj\Release\WindowsApplication1.Resources.resources
+E:\VB.net\twt\Twt\Twt\obj\Release\WindowsApplication1.yopmail.resources
+E:\VB.net\twt\Twt\Twt\obj\Release\Twt.vbproj.GenerateResource.Cache

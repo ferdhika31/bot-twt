@@ -1,0 +1,1380 @@
+﻿<Mappings><Entry OldName="TwitteCreatebyLangit.My.MyApplication.__ENCList" NewName="A.ce4ce23968fba576b21f4162c963da8c4.c8d9fbf3b29a865328f028f67b517f67b" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.m_ComputerObjectProvider" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.cc1db53bf57dd66a08c6c7849b2cfa1c2" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.m_AppObjectProvider" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.c0c668528e9429fb1bd5709b4352849a0" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.m_UserObjectProvider" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.cce3b165c9f606d33525ce9f3f724f0fd" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.m_MyFormsObjectProvider" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.c1fc5c50379b47a7fa6cc59d0acb69721" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.m_MyWebServicesObjectProvider" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.c9763572d7dd8459817607cf850665fab" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.MyForms.m_About" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.c3b67793f3760fa325b17cd406c10789b.cadb77401f12c197b024a634ef38a4b13" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.MyForms.m_copy" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.c3b67793f3760fa325b17cd406c10789b.cf3fe6331ea8f0497e52ac10a22863354" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.MyForms.m_harga" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.c3b67793f3760fa325b17cd406c10789b.ca8485349f648a2a4b3cfb0cadbc563f8" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.MyForms.m_login" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.c3b67793f3760fa325b17cd406c10789b.cf7e3f703117439c551d52f5b22075db5" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.MyForms.m_main" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.c3b67793f3760fa325b17cd406c10789b.cb8afbbcdd7da246b49c07e7a154efe79" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.MyForms.m_mimiti" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.c3b67793f3760fa325b17cd406c10789b.c35c57f6ad22cf4e6ce99423933e25753" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.MyForms.m_pengaturan" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.c3b67793f3760fa325b17cd406c10789b.c88fa5625b26e20b8bd4bc0ad879369c2" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.MyForms.m_yopmail" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.c3b67793f3760fa325b17cd406c10789b.c63836f0e9dbad749964d87ef0355e751" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.MyForms.m_FormBeingCreated" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.c3b67793f3760fa325b17cd406c10789b.c72a6f3ddfd9d9472c5ee62dcee1e147c" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.ThreadSafeObjectProvider`1.m_ThreadStaticValue" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.c3ca36d2f6c415ac0f878031f56af51f4`1.cd4eff251867fa1be7d11ebbbad7d137f" />
+<Entry OldName="TwitteCreatebyLangit.My.InternalXmlHelper.RemoveNamespaceAttributesClosure.m_ns" NewName="A.ccf07d637c870fe3ffa9aa0d10471d1d0.c26051331cb05046ca3513914209732b6.cd60277aba163adc45324549b2a04bd4f" />
+<Entry OldName="TwitteCreatebyLangit.About.__ENCList" NewName="TwitteCreatebyLangit.About.c8d9fbf3b29a865328f028f67b517f67b" />
+<Entry OldName="TwitteCreatebyLangit.About.components" NewName="TwitteCreatebyLangit.About.c2c52f2f065cfb88adf9c32ac77b7c228" />
+<Entry OldName="TwitteCreatebyLangit.About._TextBox1" NewName="TwitteCreatebyLangit.About.c1d50a7a0fdad045c5a07086c836e3a3f" />
+<Entry OldName="TwitteCreatebyLangit.About._GroupBox1" NewName="TwitteCreatebyLangit.About.cc60295afb1832b4bc64c451e3858a851" />
+<Entry OldName="TwitteCreatebyLangit.About._Label4" NewName="TwitteCreatebyLangit.About.c97908b4f7c57d2ce7540153479b81583" />
+<Entry OldName="TwitteCreatebyLangit.About._Label3" NewName="TwitteCreatebyLangit.About.c3dce93a0d8f0514f2876fb99db4ac8d9" />
+<Entry OldName="TwitteCreatebyLangit.About._Label2" NewName="TwitteCreatebyLangit.About.c048105ed65b9f0328aabb10b6bf73982" />
+<Entry OldName="TwitteCreatebyLangit.About._Label1" NewName="TwitteCreatebyLangit.About.cd6f16a59d9e993f4be87344cc0454054" />
+<Entry OldName="TwitteCreatebyLangit.About._TextBox4" NewName="TwitteCreatebyLangit.About.c93e326daa4c10a2a90c97a62636efac3" />
+<Entry OldName="TwitteCreatebyLangit.About._TextBox3" NewName="TwitteCreatebyLangit.About.ce42c6a8f59cf5ab2d5a399c6bde4a9a8" />
+<Entry OldName="TwitteCreatebyLangit.About._TextBox2" NewName="TwitteCreatebyLangit.About.c503d9b59e7c198e0be85ba677899584c" />
+<Entry OldName="TwitteCreatebyLangit.About._PictureBox1" NewName="TwitteCreatebyLangit.About.c9aaa70ece1434f6f7b8f19bdd3921a9c" />
+<Entry OldName="TwitteCreatebyLangit.About._GroupBox2" NewName="TwitteCreatebyLangit.About.cd3ce20b2141e31dace7cc5f0478a65b3" />
+<Entry OldName="TwitteCreatebyLangit.About._Label5" NewName="TwitteCreatebyLangit.About.c29d8805a7c62be69c22342d954e86f88" />
+<Entry OldName="TwitteCreatebyLangit.About._Label6" NewName="TwitteCreatebyLangit.About.c0dbfb1727eae940ee1858e5c81351843" />
+<Entry OldName="TwitteCreatebyLangit.About._Label7" NewName="TwitteCreatebyLangit.About.c21de9f9f7a3d8a142e825da167fd06a7" />
+<Entry OldName="TwitteCreatebyLangit.About._Label8" NewName="TwitteCreatebyLangit.About.c2e27e7c8cd8948bb95098cf9d5f09915" />
+<Entry OldName="TwitteCreatebyLangit.About._Label9" NewName="TwitteCreatebyLangit.About.c9c08a341a1e986453b9ae594789ee69c" />
+<Entry OldName="TwitteCreatebyLangit.About._TextBox5" NewName="TwitteCreatebyLangit.About.cfc50557eb8043b188dd735ad457ccb6d" />
+<Entry OldName="TwitteCreatebyLangit.copy.__ENCList" NewName="TwitteCreatebyLangit.copy.c8d9fbf3b29a865328f028f67b517f67b" />
+<Entry OldName="TwitteCreatebyLangit.copy.components" NewName="TwitteCreatebyLangit.copy.c2c52f2f065cfb88adf9c32ac77b7c228" />
+<Entry OldName="TwitteCreatebyLangit.copy._Panel1" NewName="TwitteCreatebyLangit.copy.cb54ed19572d0af0e49c16806649711ab" />
+<Entry OldName="TwitteCreatebyLangit.copy._Label8" NewName="TwitteCreatebyLangit.copy.c2e27e7c8cd8948bb95098cf9d5f09915" />
+<Entry OldName="TwitteCreatebyLangit.harga.__ENCList" NewName="TwitteCreatebyLangit.harga.c8d9fbf3b29a865328f028f67b517f67b" />
+<Entry OldName="TwitteCreatebyLangit.harga.components" NewName="TwitteCreatebyLangit.harga.c2c52f2f065cfb88adf9c32ac77b7c228" />
+<Entry OldName="TwitteCreatebyLangit.harga._Panel1" NewName="TwitteCreatebyLangit.harga.cb54ed19572d0af0e49c16806649711ab" />
+<Entry OldName="TwitteCreatebyLangit.harga._Panel2" NewName="TwitteCreatebyLangit.harga.c1d1090e8b0afe96a71d41577932aac17" />
+<Entry OldName="TwitteCreatebyLangit.harga._Panel3" NewName="TwitteCreatebyLangit.harga.c701fe9c710553f08c8e644d81538d259" />
+<Entry OldName="TwitteCreatebyLangit.harga._Label7" NewName="TwitteCreatebyLangit.harga.c21de9f9f7a3d8a142e825da167fd06a7" />
+<Entry OldName="TwitteCreatebyLangit.harga._Label1" NewName="TwitteCreatebyLangit.harga.cd6f16a59d9e993f4be87344cc0454054" />
+<Entry OldName="TwitteCreatebyLangit.harga._Label2" NewName="TwitteCreatebyLangit.harga.c048105ed65b9f0328aabb10b6bf73982" />
+<Entry OldName="TwitteCreatebyLangit.harga._Label3" NewName="TwitteCreatebyLangit.harga.c3dce93a0d8f0514f2876fb99db4ac8d9" />
+<Entry OldName="TwitteCreatebyLangit.harga._Label4" NewName="TwitteCreatebyLangit.harga.c97908b4f7c57d2ce7540153479b81583" />
+<Entry OldName="TwitteCreatebyLangit.harga._Label5" NewName="TwitteCreatebyLangit.harga.c29d8805a7c62be69c22342d954e86f88" />
+<Entry OldName="TwitteCreatebyLangit.harga._Label6" NewName="TwitteCreatebyLangit.harga.c0dbfb1727eae940ee1858e5c81351843" />
+<Entry OldName="TwitteCreatebyLangit.harga._Label8" NewName="TwitteCreatebyLangit.harga.c2e27e7c8cd8948bb95098cf9d5f09915" />
+<Entry OldName="TwitteCreatebyLangit.harga._Label9" NewName="TwitteCreatebyLangit.harga.c9c08a341a1e986453b9ae594789ee69c" />
+<Entry OldName="TwitteCreatebyLangit.harga._PictureBox1" NewName="TwitteCreatebyLangit.harga.c9aaa70ece1434f6f7b8f19bdd3921a9c" />
+<Entry OldName="TwitteCreatebyLangit.harga._PictureBox2" NewName="TwitteCreatebyLangit.harga.cce1c7e8919beb585b9a3315cfcdc817d" />
+<Entry OldName="TwitteCreatebyLangit.harga._PictureBox3" NewName="TwitteCreatebyLangit.harga.ca060b4cf1e5a0d013b910e44be639ee1" />
+<Entry OldName="TwitteCreatebyLangit.harga._PictureBox4" NewName="TwitteCreatebyLangit.harga.c8a9e684eddd86d890a17ed1d283e0dd7" />
+<Entry OldName="TwitteCreatebyLangit.harga._PictureBox5" NewName="TwitteCreatebyLangit.harga.c6ee147905a971d4a3dcb45a8709f4f70" />
+<Entry OldName="TwitteCreatebyLangit.harga._PictureBox6" NewName="TwitteCreatebyLangit.harga.c3b3a1f7d3fbf1cbbb7469c1c422a1893" />
+<Entry OldName="TwitteCreatebyLangit.harga._PictureBox8" NewName="TwitteCreatebyLangit.harga.c47e4158e839c3eaaddc46425458c1a0a" />
+<Entry OldName="TwitteCreatebyLangit.harga._PictureBox9" NewName="TwitteCreatebyLangit.harga.c0893c64533b54d32ab7264c423c3612b" />
+<Entry OldName="TwitteCreatebyLangit.harga._PictureBox10" NewName="TwitteCreatebyLangit.harga.c0b978e8c20ce6ff1b5dad84c96a16d0b" />
+<Entry OldName="TwitteCreatebyLangit.harga._PictureBox11" NewName="TwitteCreatebyLangit.harga.caaa455f93b2530b6263475a5b5f711da" />
+<Entry OldName="TwitteCreatebyLangit.harga._PictureBox13" NewName="TwitteCreatebyLangit.harga.cfe6a535dd942f0324cb4ca1c2ff1eb53" />
+<Entry OldName="TwitteCreatebyLangit.harga._PictureBox14" NewName="TwitteCreatebyLangit.harga.c54f0e88c05f2dd919f557b49784a2a0c" />
+<Entry OldName="TwitteCreatebyLangit.harga._PictureBox15" NewName="TwitteCreatebyLangit.harga.cd10fa17254ce4bfd2c4cf7d9d919c18f" />
+<Entry OldName="TwitteCreatebyLangit.harga._PictureBox16" NewName="TwitteCreatebyLangit.harga.c8b25f7133c7c7354989dad7b4f2a60a9" />
+<Entry OldName="TwitteCreatebyLangit.harga._PictureBox17" NewName="TwitteCreatebyLangit.harga.c3c82c9fc742599849f6739f5e286e4c0" />
+<Entry OldName="TwitteCreatebyLangit.harga._PictureBox18" NewName="TwitteCreatebyLangit.harga.c442a90a427d6bf40cda5b178e395ec6d" />
+<Entry OldName="TwitteCreatebyLangit.harga._btnOrder1" NewName="TwitteCreatebyLangit.harga.ce8d6724ecb4fc055373913899eaf084c" />
+<Entry OldName="TwitteCreatebyLangit.harga._btnOrder2" NewName="TwitteCreatebyLangit.harga.ca15194aa0c7d8025621e253318608b9b" />
+<Entry OldName="TwitteCreatebyLangit.harga._btnOrder3" NewName="TwitteCreatebyLangit.harga.c3a79ee597396af40d55cd77e62981480" />
+<Entry OldName="TwitteCreatebyLangit.harga._Label11" NewName="TwitteCreatebyLangit.harga.cd34a8b1acdb53d4c76333e52a71e3dc9" />
+<Entry OldName="TwitteCreatebyLangit.harga._Label12" NewName="TwitteCreatebyLangit.harga.c54a6809374e0a88f78b0693bc9ac10bc" />
+<Entry OldName="TwitteCreatebyLangit.harga._Label13" NewName="TwitteCreatebyLangit.harga.c6a8462eda34ef179ee9e26236c9e8387" />
+<Entry OldName="TwitteCreatebyLangit.harga._Label14" NewName="TwitteCreatebyLangit.harga.cbf237279333ceb0bcfc1fc5a0d38a26d" />
+<Entry OldName="TwitteCreatebyLangit.harga._btnTutup" NewName="TwitteCreatebyLangit.harga.c14b6ac5f32cdf285502abf42808f98bd" />
+<Entry OldName="TwitteCreatebyLangit.harga._PictureBox12" NewName="TwitteCreatebyLangit.harga.cd2ed8c4500bb25624dfced7e59ee5b44" />
+<Entry OldName="TwitteCreatebyLangit.harga._PictureBox7" NewName="TwitteCreatebyLangit.harga.cf5d47a8bafdc812d3cdeefaf6cc14918" />
+<Entry OldName="TwitteCreatebyLangit.login.__ENCList" NewName="TwitteCreatebyLangit.login.c8d9fbf3b29a865328f028f67b517f67b" />
+<Entry OldName="TwitteCreatebyLangit.login.components" NewName="TwitteCreatebyLangit.login.c2c52f2f065cfb88adf9c32ac77b7c228" />
+<Entry OldName="TwitteCreatebyLangit.login._txtUser" NewName="TwitteCreatebyLangit.login.c8a0ac05e48bf566f0385bc6861c6f153" />
+<Entry OldName="TwitteCreatebyLangit.login._txtPass" NewName="TwitteCreatebyLangit.login.ca6a17c8eea4853fed735ea86e53cec91" />
+<Entry OldName="TwitteCreatebyLangit.login._PictureBox1" NewName="TwitteCreatebyLangit.login.c9aaa70ece1434f6f7b8f19bdd3921a9c" />
+<Entry OldName="TwitteCreatebyLangit.login._PictureBox2" NewName="TwitteCreatebyLangit.login.cce1c7e8919beb585b9a3315cfcdc817d" />
+<Entry OldName="TwitteCreatebyLangit.login._btnLogin" NewName="TwitteCreatebyLangit.login.cbd78ace969c87183d8451578ecddbac1" />
+<Entry OldName="TwitteCreatebyLangit.login._btnEx" NewName="TwitteCreatebyLangit.login.c6ac19e04a5f60f450e3f099a85fbc3a7" />
+<Entry OldName="TwitteCreatebyLangit.login._Label1" NewName="TwitteCreatebyLangit.login.cd6f16a59d9e993f4be87344cc0454054" />
+<Entry OldName="TwitteCreatebyLangit.login._Label2" NewName="TwitteCreatebyLangit.login.c048105ed65b9f0328aabb10b6bf73982" />
+<Entry OldName="TwitteCreatebyLangit.login._Label3" NewName="TwitteCreatebyLangit.login.c3dce93a0d8f0514f2876fb99db4ac8d9" />
+<Entry OldName="TwitteCreatebyLangit.login._Label4" NewName="TwitteCreatebyLangit.login.c97908b4f7c57d2ce7540153479b81583" />
+<Entry OldName="TwitteCreatebyLangit.login._btnUser" NewName="TwitteCreatebyLangit.login.c9f9e72b9522665a1aaedc26a5b3d94aa" />
+<Entry OldName="TwitteCreatebyLangit.login._lblTgl" NewName="TwitteCreatebyLangit.login.cbbb8601a421f0b0cd4014145b9711432" />
+<Entry OldName="TwitteCreatebyLangit.login.baca" NewName="TwitteCreatebyLangit.login.c60524aac730baacc680004e3673e967a" />
+<Entry OldName="TwitteCreatebyLangit.main.__ENCList" NewName="TwitteCreatebyLangit.main.c8d9fbf3b29a865328f028f67b517f67b" />
+<Entry OldName="TwitteCreatebyLangit.main.components" NewName="TwitteCreatebyLangit.main.c2c52f2f065cfb88adf9c32ac77b7c228" />
+<Entry OldName="TwitteCreatebyLangit.main._btnLogout" NewName="TwitteCreatebyLangit.main.cb02b2fb3a21b4d34b531f62450e849a5" />
+<Entry OldName="TwitteCreatebyLangit.main._WebBrowser1" NewName="TwitteCreatebyLangit.main.c96f89ba5b06eff7bc7d5f7a778a67877" />
+<Entry OldName="TwitteCreatebyLangit.main._btnTambah" NewName="TwitteCreatebyLangit.main.c38504009df79360638a990db7cd460ed" />
+<Entry OldName="TwitteCreatebyLangit.main._TextBox1" NewName="TwitteCreatebyLangit.main.c1d50a7a0fdad045c5a07086c836e3a3f" />
+<Entry OldName="TwitteCreatebyLangit.main._btnBaru" NewName="TwitteCreatebyLangit.main.ce446050705a401847a2b465277bcf6ce" />
+<Entry OldName="TwitteCreatebyLangit.main._TextBox2" NewName="TwitteCreatebyLangit.main.c503d9b59e7c198e0be85ba677899584c" />
+<Entry OldName="TwitteCreatebyLangit.main._TextBox3" NewName="TwitteCreatebyLangit.main.ce42c6a8f59cf5ab2d5a399c6bde4a9a8" />
+<Entry OldName="TwitteCreatebyLangit.main._btnEmail" NewName="TwitteCreatebyLangit.main.c2bcdb11fea84772318de5d272a715a6b" />
+<Entry OldName="TwitteCreatebyLangit.main._txtIds" NewName="TwitteCreatebyLangit.main.cbc5a796b19f9c3475410c8d1494d2e71" />
+<Entry OldName="TwitteCreatebyLangit.main._Label1" NewName="TwitteCreatebyLangit.main.cd6f16a59d9e993f4be87344cc0454054" />
+<Entry OldName="TwitteCreatebyLangit.main._Label2" NewName="TwitteCreatebyLangit.main.c048105ed65b9f0328aabb10b6bf73982" />
+<Entry OldName="TwitteCreatebyLangit.main._Label3" NewName="TwitteCreatebyLangit.main.c3dce93a0d8f0514f2876fb99db4ac8d9" />
+<Entry OldName="TwitteCreatebyLangit.main._GroupBox1" NewName="TwitteCreatebyLangit.main.cc60295afb1832b4bc64c451e3858a851" />
+<Entry OldName="TwitteCreatebyLangit.main._btnProf" NewName="TwitteCreatebyLangit.main.c3b95e51e282343795f24b12e9ac4f845" />
+<Entry OldName="TwitteCreatebyLangit.main._txtUrl" NewName="TwitteCreatebyLangit.main.c549a1b4186be1a0831951117c37dd499" />
+<Entry OldName="TwitteCreatebyLangit.main._lblSelesai" NewName="TwitteCreatebyLangit.main.c79bafafba8d1395e05e862cce38ee0b2" />
+<Entry OldName="TwitteCreatebyLangit.main._lbHasil" NewName="TwitteCreatebyLangit.main.c6ae760d169b4d39ba5552bf14f3ed8f6" />
+<Entry OldName="TwitteCreatebyLangit.main._btnCopy" NewName="TwitteCreatebyLangit.main.c38c18ed3d09bd27e954069bace16f816" />
+<Entry OldName="TwitteCreatebyLangit.main._btnSimpan" NewName="TwitteCreatebyLangit.main.cf7d8680ea50f6febe3ff862f499dcdb7" />
+<Entry OldName="TwitteCreatebyLangit.main._sf1" NewName="TwitteCreatebyLangit.main.c7fda96d668d40fe9d87f2da2a759ff53" />
+<Entry OldName="TwitteCreatebyLangit.main._lblNama" NewName="TwitteCreatebyLangit.main.c1daf8ba68263e758c96531c7e63baded" />
+<Entry OldName="TwitteCreatebyLangit.main._lblBio" NewName="TwitteCreatebyLangit.main.c4b3c2b06b8fd05a480b08a00dcf4ccba" />
+<Entry OldName="TwitteCreatebyLangit.main._lblUrl" NewName="TwitteCreatebyLangit.main.cfe66d0d96a52cb0420ad35b1689fcee7" />
+<Entry OldName="TwitteCreatebyLangit.main._lblLokasi" NewName="TwitteCreatebyLangit.main.cbcecb7b9850730e119562d0660a31e57" />
+<Entry OldName="TwitteCreatebyLangit.main._lblAkun1" NewName="TwitteCreatebyLangit.main.c022662a022bfe6fe8bc064c88cfcdbec" />
+<Entry OldName="TwitteCreatebyLangit.main._lblAkun2" NewName="TwitteCreatebyLangit.main.c33a5e94a694f0f2fb50bb211bfa41306" />
+<Entry OldName="TwitteCreatebyLangit.main._lblTweet1" NewName="TwitteCreatebyLangit.main.c26436b518cd73cf9188cd7c2fb6ec5ba" />
+<Entry OldName="TwitteCreatebyLangit.main._lblAuto" NewName="TwitteCreatebyLangit.main.cd20d4cd3f4fd647aaee507c6e187693e" />
+<Entry OldName="TwitteCreatebyLangit.main._cbAuto" NewName="TwitteCreatebyLangit.main.c6af651ebcd7d929b855e3df7d3646e5e" />
+<Entry OldName="TwitteCreatebyLangit.main._GroupBox2" NewName="TwitteCreatebyLangit.main.cd3ce20b2141e31dace7cc5f0478a65b3" />
+<Entry OldName="TwitteCreatebyLangit.main._GroupBox3" NewName="TwitteCreatebyLangit.main.c5407a668f52da46bd0e923131442072f" />
+<Entry OldName="TwitteCreatebyLangit.main._PictureBox1" NewName="TwitteCreatebyLangit.main.c9aaa70ece1434f6f7b8f19bdd3921a9c" />
+<Entry OldName="TwitteCreatebyLangit.main._GroupBox4" NewName="TwitteCreatebyLangit.main.c426a3db0b51c46a2299745654207c4ac" />
+<Entry OldName="TwitteCreatebyLangit.main._Label4" NewName="TwitteCreatebyLangit.main.c97908b4f7c57d2ce7540153479b81583" />
+<Entry OldName="TwitteCreatebyLangit.main._btnKeluar" NewName="TwitteCreatebyLangit.main.c6911083a98f9aa9f2218d37bb9675f21" />
+<Entry OldName="TwitteCreatebyLangit.main._btnAbout" NewName="TwitteCreatebyLangit.main.c16f9fd2229e20cc110328da0069e099b" />
+<Entry OldName="TwitteCreatebyLangit.main._GroupBox5" NewName="TwitteCreatebyLangit.main.c96fbba33e9bafb0d862c2b63b2357a38" />
+<Entry OldName="TwitteCreatebyLangit.main._lblTweet2" NewName="TwitteCreatebyLangit.main.c8d3782ff2b6467e2493115af83b4f2dc" />
+<Entry OldName="TwitteCreatebyLangit.main._WebBrowser2" NewName="TwitteCreatebyLangit.main.c6a53ba6533b161caf8de5a9286f021a1" />
+<Entry OldName="TwitteCreatebyLangit.main._GroupBox6" NewName="TwitteCreatebyLangit.main.c4e6b2641da6424bf1dcbdf351f621123" />
+<Entry OldName="TwitteCreatebyLangit.main._Label5" NewName="TwitteCreatebyLangit.main.c29d8805a7c62be69c22342d954e86f88" />
+<Entry OldName="TwitteCreatebyLangit.main._lblProses" NewName="TwitteCreatebyLangit.main.cdc05c011c99c816b196e5dac16f8c7d2" />
+<Entry OldName="TwitteCreatebyLangit.main.doc" NewName="TwitteCreatebyLangit.main.ca1a4f502094539e13733db0f0ad0d8d9" />
+<Entry OldName="TwitteCreatebyLangit.mimiti.__ENCList" NewName="TwitteCreatebyLangit.mimiti.c8d9fbf3b29a865328f028f67b517f67b" />
+<Entry OldName="TwitteCreatebyLangit.mimiti.components" NewName="TwitteCreatebyLangit.mimiti.c2c52f2f065cfb88adf9c32ac77b7c228" />
+<Entry OldName="TwitteCreatebyLangit.mimiti._PictureBox1" NewName="TwitteCreatebyLangit.mimiti.c9aaa70ece1434f6f7b8f19bdd3921a9c" />
+<Entry OldName="TwitteCreatebyLangit.mimiti._pb" NewName="TwitteCreatebyLangit.mimiti.c9bd52a17f8df9fc4a9eb7d59619adf48" />
+<Entry OldName="TwitteCreatebyLangit.mimiti._Panel1" NewName="TwitteCreatebyLangit.mimiti.cb54ed19572d0af0e49c16806649711ab" />
+<Entry OldName="TwitteCreatebyLangit.mimiti._Label1" NewName="TwitteCreatebyLangit.mimiti.cd6f16a59d9e993f4be87344cc0454054" />
+<Entry OldName="TwitteCreatebyLangit.mimiti._Timer1" NewName="TwitteCreatebyLangit.mimiti.c4017bf0bc494310f99d00e3f6089938f" />
+<Entry OldName="TwitteCreatebyLangit.mimiti._Label2" NewName="TwitteCreatebyLangit.mimiti.c048105ed65b9f0328aabb10b6bf73982" />
+<Entry OldName="TwitteCreatebyLangit.mimiti._komponen" NewName="TwitteCreatebyLangit.mimiti.c936d48144e9b9148c4f91106f97fec03" />
+<Entry OldName="TwitteCreatebyLangit.mimiti._loadtx" NewName="TwitteCreatebyLangit.mimiti.c3389d423a5ca2648ecf9397aa60dba87" />
+<Entry OldName="TwitteCreatebyLangit.mimiti.db" NewName="TwitteCreatebyLangit.mimiti.cc524e2cfdc37d67f69a30cca66217cc0" />
+<Entry OldName="TwitteCreatebyLangit.My.Resources.Resources.resourceMan" NewName="A.c5fdefedcf1115d8027e202f27bdbb995.c977dd630c3b373a444303de1df2dbb1e" />
+<Entry OldName="TwitteCreatebyLangit.My.Resources.Resources.resourceCulture" NewName="A.c5fdefedcf1115d8027e202f27bdbb995.c6c9835258719efbf7dde605afa80f699" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.__ENCList" NewName="TwitteCreatebyLangit.pengaturan.c8d9fbf3b29a865328f028f67b517f67b" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.components" NewName="TwitteCreatebyLangit.pengaturan.c2c52f2f065cfb88adf9c32ac77b7c228" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan._txtBio" NewName="TwitteCreatebyLangit.pengaturan.cc60c167a010b848e442e0bca9dc2316b" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan._txtLokasi" NewName="TwitteCreatebyLangit.pengaturan.ca2c6327bf2f0a70714d41aecffd9bbb4" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan._txtUrl" NewName="TwitteCreatebyLangit.pengaturan.c549a1b4186be1a0831951117c37dd499" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan._btnSelesai" NewName="TwitteCreatebyLangit.pengaturan.cbc8f8b231e48b15cd9456ced98a284de" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan._Label1" NewName="TwitteCreatebyLangit.pengaturan.cd6f16a59d9e993f4be87344cc0454054" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan._Label2" NewName="TwitteCreatebyLangit.pengaturan.c048105ed65b9f0328aabb10b6bf73982" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan._Label3" NewName="TwitteCreatebyLangit.pengaturan.c3dce93a0d8f0514f2876fb99db4ac8d9" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan._GroupBox1" NewName="TwitteCreatebyLangit.pengaturan.cc60295afb1832b4bc64c451e3858a851" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan._GroupBox2" NewName="TwitteCreatebyLangit.pengaturan.cd3ce20b2141e31dace7cc5f0478a65b3" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan._txtUsername2" NewName="TwitteCreatebyLangit.pengaturan.cc055084f41c33899527155dfeadabc44" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan._Label6" NewName="TwitteCreatebyLangit.pengaturan.c0dbfb1727eae940ee1858e5c81351843" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan._Label7" NewName="TwitteCreatebyLangit.pengaturan.c21de9f9f7a3d8a142e825da167fd06a7" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan._txtUsername1" NewName="TwitteCreatebyLangit.pengaturan.c4dfc42af0f83dca5830dcb438bb7714e" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan._txtTweet1" NewName="TwitteCreatebyLangit.pengaturan.c7732114f180fa9f937df2f1006e6276f" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan._GroupBox3" NewName="TwitteCreatebyLangit.pengaturan.c5407a668f52da46bd0e923131442072f" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan._Label4" NewName="TwitteCreatebyLangit.pengaturan.c97908b4f7c57d2ce7540153479b81583" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan._txtNama" NewName="TwitteCreatebyLangit.pengaturan.ce511572948bc925df7b25c16161c99e9" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan._Label8" NewName="TwitteCreatebyLangit.pengaturan.c2e27e7c8cd8948bb95098cf9d5f09915" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan._Label10" NewName="TwitteCreatebyLangit.pengaturan.cf9910228904ef2eefe25a22820bb8989" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan._Label9" NewName="TwitteCreatebyLangit.pengaturan.c9c08a341a1e986453b9ae594789ee69c" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan._GroupBox4" NewName="TwitteCreatebyLangit.pengaturan.c426a3db0b51c46a2299745654207c4ac" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan._Label11" NewName="TwitteCreatebyLangit.pengaturan.cd34a8b1acdb53d4c76333e52a71e3dc9" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan._btnKeluar" NewName="TwitteCreatebyLangit.pengaturan.c6911083a98f9aa9f2218d37bb9675f21" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan._Label12" NewName="TwitteCreatebyLangit.pengaturan.c54a6809374e0a88f78b0693bc9ac10bc" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan._btnAbout" NewName="TwitteCreatebyLangit.pengaturan.c16f9fd2229e20cc110328da0069e099b" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan._cbAuto" NewName="TwitteCreatebyLangit.pengaturan.c6af651ebcd7d929b855e3df7d3646e5e" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan._btnTutup" NewName="TwitteCreatebyLangit.pengaturan.c14b6ac5f32cdf285502abf42808f98bd" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan._Label5" NewName="TwitteCreatebyLangit.pengaturan.c29d8805a7c62be69c22342d954e86f88" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan._txtTweet2" NewName="TwitteCreatebyLangit.pengaturan.c8e5636b388356b057da04d4fb224163f" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan._StatusStrip1" NewName="TwitteCreatebyLangit.pengaturan.cb1e2e627f69975f66b4f3c88089751cc" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan._ToolStripStatusLabel1" NewName="TwitteCreatebyLangit.pengaturan.c79ef965d36811752264033168a7c62fa" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan._tsStat" NewName="TwitteCreatebyLangit.pengaturan.c0319cec8bcaec0e3deaeed4e07b46551" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan._Label13" NewName="TwitteCreatebyLangit.pengaturan.c6a8462eda34ef179ee9e26236c9e8387" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan._lblAkunStat" NewName="TwitteCreatebyLangit.pengaturan.cbea0d1d72f7e67d575f062c362e163e3" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan._Label14" NewName="TwitteCreatebyLangit.pengaturan.cbf237279333ceb0bcfc1fc5a0d38a26d" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan._lblNama" NewName="TwitteCreatebyLangit.pengaturan.c1daf8ba68263e758c96531c7e63baded" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan._btnLogout" NewName="TwitteCreatebyLangit.pengaturan.cb02b2fb3a21b4d34b531f62450e849a5" />
+<Entry OldName="TwitteCreatebyLangit.yopmail.__ENCList" NewName="TwitteCreatebyLangit.yopmail.c8d9fbf3b29a865328f028f67b517f67b" />
+<Entry OldName="TwitteCreatebyLangit.yopmail.components" NewName="TwitteCreatebyLangit.yopmail.c2c52f2f065cfb88adf9c32ac77b7c228" />
+<Entry OldName="TwitteCreatebyLangit.yopmail._WebBrowser1" NewName="TwitteCreatebyLangit.yopmail.c96f89ba5b06eff7bc7d5f7a778a67877" />
+<Entry OldName="TwitteCreatebyLangit.yopmail._TextBox1" NewName="TwitteCreatebyLangit.yopmail.c1d50a7a0fdad045c5a07086c836e3a3f" />
+<Entry OldName="TwitteCreatebyLangit.My.MyApplication..cctor()" NewName="A.ce4ce23968fba576b21f4162c963da8c4..cctor()" />
+<Entry OldName="TwitteCreatebyLangit.My.MyApplication..ctor()" NewName="A.ce4ce23968fba576b21f4162c963da8c4..ctor()" />
+<Entry OldName="TwitteCreatebyLangit.My.MyApplication.Main(String[] Args)" NewName="A.ce4ce23968fba576b21f4162c963da8c4.cc940a6bf5bb2e7a06437e03ba050b3e9(String[] c63ff3c626d1ba1597b26c76d43703abe)" />
+<Entry OldName="TwitteCreatebyLangit.My.MyApplication.OnCreateMainForm()" NewName="A.ce4ce23968fba576b21f4162c963da8c4.OnCreateMainForm()" />
+<Entry OldName="TwitteCreatebyLangit.My.MyComputer..ctor()" NewName="A.ca203d0ca34621fadbcb9f89f7c2c3071..ctor()" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject..cctor()" NewName="A.cf843c93976f99982c8c04d1cb3be35e1..cctor()" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.get_Computer()" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.get_cacfb75faf5be1db38b4ab2cc655beb64()" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.get_Application()" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.get_cf5cb058d56e06ddaf790c37c87b9661c()" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.get_User()" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.get_cddf69a3de083a605a36fe8bc30fb3a5e()" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.get_Forms()" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.get_c9b168edf0978b037f41af2e1c14c05d5()" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.get_WebServices()" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.get_cd0a85869769a55486b397af530718c37()" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.MyForms..ctor()" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.c3b67793f3760fa325b17cd406c10789b..ctor()" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.MyForms.get_About()" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.c3b67793f3760fa325b17cd406c10789b.get_cf940f50fe9b9d2d00aeed13e1037e84c()" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.MyForms.get_copy()" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.c3b67793f3760fa325b17cd406c10789b.get_c64a0466a381bf0e88d236306d058e5a2()" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.MyForms.get_harga()" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.c3b67793f3760fa325b17cd406c10789b.get_cd786dffd006b0885d16188edf72231a5()" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.MyForms.get_login()" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.c3b67793f3760fa325b17cd406c10789b.get_c566c6f1d6b48fcd9709375c122b4cfcc()" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.MyForms.get_main()" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.c3b67793f3760fa325b17cd406c10789b.get_ca0d02567cc1769187d6b57190e91e65f()" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.MyForms.get_mimiti()" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.c3b67793f3760fa325b17cd406c10789b.get_c00c125e93424877a32ecdbe46563a852()" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.MyForms.get_pengaturan()" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.c3b67793f3760fa325b17cd406c10789b.get_c73cac0d312bbb283c16a3e40ea2258bb()" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.MyForms.get_yopmail()" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.c3b67793f3760fa325b17cd406c10789b.get_c5af2b3f676cf1d14f36db38124e9825c()" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.MyForms.set_About(About Value)" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.c3b67793f3760fa325b17cd406c10789b.set_cf940f50fe9b9d2d00aeed13e1037e84c(About c2ad00ccd2241e815c3b2061a190a4dda)" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.MyForms.set_copy(copy Value)" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.c3b67793f3760fa325b17cd406c10789b.set_c64a0466a381bf0e88d236306d058e5a2(copy c2ad00ccd2241e815c3b2061a190a4dda)" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.MyForms.set_harga(harga Value)" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.c3b67793f3760fa325b17cd406c10789b.set_cd786dffd006b0885d16188edf72231a5(harga c2ad00ccd2241e815c3b2061a190a4dda)" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.MyForms.set_login(login Value)" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.c3b67793f3760fa325b17cd406c10789b.set_c566c6f1d6b48fcd9709375c122b4cfcc(login c2ad00ccd2241e815c3b2061a190a4dda)" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.MyForms.set_main(main Value)" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.c3b67793f3760fa325b17cd406c10789b.set_ca0d02567cc1769187d6b57190e91e65f(main c2ad00ccd2241e815c3b2061a190a4dda)" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.MyForms.set_mimiti(mimiti Value)" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.c3b67793f3760fa325b17cd406c10789b.set_c00c125e93424877a32ecdbe46563a852(mimiti c2ad00ccd2241e815c3b2061a190a4dda)" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.MyForms.set_pengaturan(pengaturan Value)" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.c3b67793f3760fa325b17cd406c10789b.set_c73cac0d312bbb283c16a3e40ea2258bb(pengaturan c2ad00ccd2241e815c3b2061a190a4dda)" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.MyForms.set_yopmail(yopmail Value)" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.c3b67793f3760fa325b17cd406c10789b.set_c5af2b3f676cf1d14f36db38124e9825c(yopmail c2ad00ccd2241e815c3b2061a190a4dda)" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.MyForms.Create__Instance__[T](T Instance)" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.c3b67793f3760fa325b17cd406c10789b.c0881fc3aa3baffd301f8d94f143108c4[c40940d19cd6880d045544855494a954d](c40940d19cd6880d045544855494a954d c9f30fd949fd971a2245ff1bf289947a5)" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.MyForms.Dispose__Instance__[T](T&amp; instance)" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.c3b67793f3760fa325b17cd406c10789b.c942223a64d79aa77ee10a68ae3bde4d3[c40940d19cd6880d045544855494a954d](c40940d19cd6880d045544855494a954d&amp; cbab2448dee15dcd75a54e93769d6ed34)" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.MyForms.Equals(Object o)" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.c3b67793f3760fa325b17cd406c10789b.Equals(Object o)" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.MyForms.GetHashCode()" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.c3b67793f3760fa325b17cd406c10789b.GetHashCode()" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.MyForms.GetType()" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.c3b67793f3760fa325b17cd406c10789b.ceddad8484cabc23876576a0d001749b2()" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.MyForms.ToString()" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.c3b67793f3760fa325b17cd406c10789b.ToString()" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.MyWebServices..ctor()" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.ca617e2e2057261bc90cf784a22e4fe08..ctor()" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.MyWebServices.Equals(Object o)" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.ca617e2e2057261bc90cf784a22e4fe08.Equals(Object o)" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.MyWebServices.GetHashCode()" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.ca617e2e2057261bc90cf784a22e4fe08.GetHashCode()" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.MyWebServices.GetType()" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.ca617e2e2057261bc90cf784a22e4fe08.ceddad8484cabc23876576a0d001749b2()" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.MyWebServices.ToString()" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.ca617e2e2057261bc90cf784a22e4fe08.ToString()" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.MyWebServices.Create__Instance__[T](T instance)" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.ca617e2e2057261bc90cf784a22e4fe08.c0881fc3aa3baffd301f8d94f143108c4[c40940d19cd6880d045544855494a954d](c40940d19cd6880d045544855494a954d cbab2448dee15dcd75a54e93769d6ed34)" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.MyWebServices.Dispose__Instance__[T](T&amp; instance)" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.ca617e2e2057261bc90cf784a22e4fe08.c942223a64d79aa77ee10a68ae3bde4d3[c40940d19cd6880d045544855494a954d](c40940d19cd6880d045544855494a954d&amp; cbab2448dee15dcd75a54e93769d6ed34)" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.ThreadSafeObjectProvider`1..ctor()" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.c3ca36d2f6c415ac0f878031f56af51f4`1..ctor()" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject.ThreadSafeObjectProvider`1.get_GetInstance()" NewName="A.cf843c93976f99982c8c04d1cb3be35e1.c3ca36d2f6c415ac0f878031f56af51f4`1.get_c027cf65c95ad9fb1d992d5c2fb8cebcc()" />
+<Entry OldName="TwitteCreatebyLangit.My.InternalXmlHelper..ctor()" NewName="A.ccf07d637c870fe3ffa9aa0d10471d1d0..ctor()" />
+<Entry OldName="TwitteCreatebyLangit.My.InternalXmlHelper.get_Value(IEnumerable`1 source)" NewName="A.ccf07d637c870fe3ffa9aa0d10471d1d0.get_Value(IEnumerable`1 source)" />
+<Entry OldName="TwitteCreatebyLangit.My.InternalXmlHelper.set_Value(IEnumerable`1 source, String value)" NewName="A.ccf07d637c870fe3ffa9aa0d10471d1d0.set_Value(IEnumerable`1 source, String value)" />
+<Entry OldName="TwitteCreatebyLangit.My.InternalXmlHelper.get_AttributeValue(IEnumerable`1 source, XName name)" NewName="A.ccf07d637c870fe3ffa9aa0d10471d1d0.get_AttributeValue(IEnumerable`1 source, XName name)" />
+<Entry OldName="TwitteCreatebyLangit.My.InternalXmlHelper.set_AttributeValue(IEnumerable`1 source, XName name, String value)" NewName="A.ccf07d637c870fe3ffa9aa0d10471d1d0.set_AttributeValue(IEnumerable`1 source, XName name, String value)" />
+<Entry OldName="TwitteCreatebyLangit.My.InternalXmlHelper.get_AttributeValue(XElement source, XName name)" NewName="A.ccf07d637c870fe3ffa9aa0d10471d1d0.get_AttributeValue(XElement source, XName name)" />
+<Entry OldName="TwitteCreatebyLangit.My.InternalXmlHelper.set_AttributeValue(XElement source, XName name, String value)" NewName="A.ccf07d637c870fe3ffa9aa0d10471d1d0.set_AttributeValue(XElement source, XName name, String value)" />
+<Entry OldName="TwitteCreatebyLangit.My.InternalXmlHelper.CreateAttribute(XName name, Object value)" NewName="A.ccf07d637c870fe3ffa9aa0d10471d1d0.c8969a1cd14f7547e6ae2f938c3a235e0(XName cddf940f73cc86869f27d06498a47d134, Object ca13d19973af6bf62a3a8894852a1136b)" />
+<Entry OldName="TwitteCreatebyLangit.My.InternalXmlHelper.CreateNamespaceAttribute(XName name, XNamespace ns)" NewName="A.ccf07d637c870fe3ffa9aa0d10471d1d0.ce795907ec801e7db0421c9261898c477(XName cddf940f73cc86869f27d06498a47d134, XNamespace c65e13fef9cb0004927100a0c7c9f65e5)" />
+<Entry OldName="TwitteCreatebyLangit.My.InternalXmlHelper.RemoveNamespaceAttributes(XNamespace[] ns, Object obj)" NewName="A.ccf07d637c870fe3ffa9aa0d10471d1d0.c2466b57140af52143d316b47d7f9f217(XNamespace[] c65e13fef9cb0004927100a0c7c9f65e5, Object cd8ccf160f26d2884797c2874073beda1)" />
+<Entry OldName="TwitteCreatebyLangit.My.InternalXmlHelper.RemoveNamespaceAttributes(XNamespace[] ns, IEnumerable obj)" NewName="A.ccf07d637c870fe3ffa9aa0d10471d1d0.c2466b57140af52143d316b47d7f9f217(XNamespace[] c65e13fef9cb0004927100a0c7c9f65e5, IEnumerable cd8ccf160f26d2884797c2874073beda1)" />
+<Entry OldName="TwitteCreatebyLangit.My.InternalXmlHelper.RemoveNamespaceAttributes(XNamespace[] ns, XElement e)" NewName="A.ccf07d637c870fe3ffa9aa0d10471d1d0.c2466b57140af52143d316b47d7f9f217(XNamespace[] c65e13fef9cb0004927100a0c7c9f65e5, XElement cc32ccc2b805afc8ecd11b34497ef4d26)" />
+<Entry OldName="TwitteCreatebyLangit.My.InternalXmlHelper.GetNamespace(XNamespace&amp; xns, String ns)" NewName="A.ccf07d637c870fe3ffa9aa0d10471d1d0.ce979264785ce7404953ca27ff038a890(XNamespace&amp; c8d144e9f5ddbf26f4929e8a604515be6, String c65e13fef9cb0004927100a0c7c9f65e5)" />
+<Entry OldName="TwitteCreatebyLangit.My.InternalXmlHelper.RemoveNamespaceAttributesClosure..ctor(XNamespace[] ns)" NewName="A.ccf07d637c870fe3ffa9aa0d10471d1d0.c26051331cb05046ca3513914209732b6..ctor(XNamespace[] c65e13fef9cb0004927100a0c7c9f65e5)" />
+<Entry OldName="TwitteCreatebyLangit.My.InternalXmlHelper.RemoveNamespaceAttributesClosure.ProcessXElement(XElement elem)" NewName="A.ccf07d637c870fe3ffa9aa0d10471d1d0.c26051331cb05046ca3513914209732b6.cba3280567913b08d84486ce130b049a8(XElement ccc36aa86bfec4c4759c7c57fc8bb2b7c)" />
+<Entry OldName="TwitteCreatebyLangit.My.InternalXmlHelper.RemoveNamespaceAttributesClosure.ProcessObject(Object obj)" NewName="A.ccf07d637c870fe3ffa9aa0d10471d1d0.c26051331cb05046ca3513914209732b6.cd42e97209ee5a348e12330d530a60bf1(Object cd8ccf160f26d2884797c2874073beda1)" />
+<Entry OldName="TwitteCreatebyLangit.About.InitializeComponent()" NewName="TwitteCreatebyLangit.About.c54ea232b465c2f4fdd91f7bd6db82dd6()" />
+<Entry OldName="TwitteCreatebyLangit.About.get_TextBox1()" NewName="TwitteCreatebyLangit.About.get_c501c355aa15cebfb994da41b48012bd1()" />
+<Entry OldName="TwitteCreatebyLangit.About.set_TextBox1(TextBox WithEventsValue)" NewName="TwitteCreatebyLangit.About.set_c501c355aa15cebfb994da41b48012bd1(TextBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.About.get_GroupBox1()" NewName="TwitteCreatebyLangit.About.get_c836eb1dc736109fc118e41892d2edbe0()" />
+<Entry OldName="TwitteCreatebyLangit.About.set_GroupBox1(GroupBox WithEventsValue)" NewName="TwitteCreatebyLangit.About.set_c836eb1dc736109fc118e41892d2edbe0(GroupBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.About.get_Label4()" NewName="TwitteCreatebyLangit.About.get_c40d76dc483e8ebf8d5b952d60f80b080()" />
+<Entry OldName="TwitteCreatebyLangit.About.set_Label4(Label WithEventsValue)" NewName="TwitteCreatebyLangit.About.set_c40d76dc483e8ebf8d5b952d60f80b080(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.About.get_Label3()" NewName="TwitteCreatebyLangit.About.get_c8ffaa5410daaecc834e55466d9dee9ab()" />
+<Entry OldName="TwitteCreatebyLangit.About.set_Label3(Label WithEventsValue)" NewName="TwitteCreatebyLangit.About.set_c8ffaa5410daaecc834e55466d9dee9ab(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.About.get_Label2()" NewName="TwitteCreatebyLangit.About.get_c02c37015f9a7c2ed75de8dadc55d343a()" />
+<Entry OldName="TwitteCreatebyLangit.About.set_Label2(Label WithEventsValue)" NewName="TwitteCreatebyLangit.About.set_c02c37015f9a7c2ed75de8dadc55d343a(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.About.get_Label1()" NewName="TwitteCreatebyLangit.About.get_c1ee7c0686e54792b3535c7eecb27fb7f()" />
+<Entry OldName="TwitteCreatebyLangit.About.set_Label1(Label WithEventsValue)" NewName="TwitteCreatebyLangit.About.set_c1ee7c0686e54792b3535c7eecb27fb7f(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.About.get_TextBox4()" NewName="TwitteCreatebyLangit.About.get_cee54e7fc038045fd70f609c1f5b92395()" />
+<Entry OldName="TwitteCreatebyLangit.About.set_TextBox4(TextBox WithEventsValue)" NewName="TwitteCreatebyLangit.About.set_cee54e7fc038045fd70f609c1f5b92395(TextBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.About.get_TextBox3()" NewName="TwitteCreatebyLangit.About.get_cf629330b34f40a9658613400b87348d0()" />
+<Entry OldName="TwitteCreatebyLangit.About.set_TextBox3(TextBox WithEventsValue)" NewName="TwitteCreatebyLangit.About.set_cf629330b34f40a9658613400b87348d0(TextBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.About.get_TextBox2()" NewName="TwitteCreatebyLangit.About.get_ca03d60dfe5ff8c5b85143fdc2af88a9e()" />
+<Entry OldName="TwitteCreatebyLangit.About.set_TextBox2(TextBox WithEventsValue)" NewName="TwitteCreatebyLangit.About.set_ca03d60dfe5ff8c5b85143fdc2af88a9e(TextBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.About.get_PictureBox1()" NewName="TwitteCreatebyLangit.About.get_cd001102cbaba505f6416ab3349ad1d08()" />
+<Entry OldName="TwitteCreatebyLangit.About.set_PictureBox1(PictureBox WithEventsValue)" NewName="TwitteCreatebyLangit.About.set_cd001102cbaba505f6416ab3349ad1d08(PictureBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.About.get_GroupBox2()" NewName="TwitteCreatebyLangit.About.get_c6a6ea6f2b87badc8af77806bebf47bdb()" />
+<Entry OldName="TwitteCreatebyLangit.About.set_GroupBox2(GroupBox WithEventsValue)" NewName="TwitteCreatebyLangit.About.set_c6a6ea6f2b87badc8af77806bebf47bdb(GroupBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.About.get_Label5()" NewName="TwitteCreatebyLangit.About.get_c22c8a330f3106aeaff49dc4d76c46aa5()" />
+<Entry OldName="TwitteCreatebyLangit.About.set_Label5(Label WithEventsValue)" NewName="TwitteCreatebyLangit.About.set_c22c8a330f3106aeaff49dc4d76c46aa5(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.About.get_Label6()" NewName="TwitteCreatebyLangit.About.get_c70608b950477612e1123268a3ccb4b12()" />
+<Entry OldName="TwitteCreatebyLangit.About.set_Label6(Label WithEventsValue)" NewName="TwitteCreatebyLangit.About.set_c70608b950477612e1123268a3ccb4b12(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.About.get_Label7()" NewName="TwitteCreatebyLangit.About.get_cfb532f47dc4379cd1f725a5475f0dffc()" />
+<Entry OldName="TwitteCreatebyLangit.About.set_Label7(Label WithEventsValue)" NewName="TwitteCreatebyLangit.About.set_cfb532f47dc4379cd1f725a5475f0dffc(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.About.get_Label8()" NewName="TwitteCreatebyLangit.About.get_cf4bd00696e1d0b6166a17a7832bf999f()" />
+<Entry OldName="TwitteCreatebyLangit.About.set_Label8(Label WithEventsValue)" NewName="TwitteCreatebyLangit.About.set_cf4bd00696e1d0b6166a17a7832bf999f(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.About.get_Label9()" NewName="TwitteCreatebyLangit.About.get_c4f50dd446d4274ddad9a84f0759a86e8()" />
+<Entry OldName="TwitteCreatebyLangit.About.set_Label9(Label WithEventsValue)" NewName="TwitteCreatebyLangit.About.set_c4f50dd446d4274ddad9a84f0759a86e8(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.About.get_TextBox5()" NewName="TwitteCreatebyLangit.About.get_c542cbc8d2544286ec7e5c7dbbd2f6d02()" />
+<Entry OldName="TwitteCreatebyLangit.About.set_TextBox5(TextBox WithEventsValue)" NewName="TwitteCreatebyLangit.About.set_c542cbc8d2544286ec7e5c7dbbd2f6d02(TextBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.About.Label5_Click(Object sender, EventArgs e)" NewName="TwitteCreatebyLangit.About.c342be3be97339fab0adc42386860b922(Object c730060d19264306a87999e69a02cf1b2, EventArgs cc32ccc2b805afc8ecd11b34497ef4d26)" />
+<Entry OldName="TwitteCreatebyLangit.About.Label6_Click(Object sender, EventArgs e)" NewName="TwitteCreatebyLangit.About.c9569334ecc0788d776d9c38461003ebe(Object c730060d19264306a87999e69a02cf1b2, EventArgs cc32ccc2b805afc8ecd11b34497ef4d26)" />
+<Entry OldName="TwitteCreatebyLangit.About.About_Load(Object sender, EventArgs e)" NewName="TwitteCreatebyLangit.About.c6c2eb94f66d6ec00cfd99342f28df8ee(Object c730060d19264306a87999e69a02cf1b2, EventArgs cc32ccc2b805afc8ecd11b34497ef4d26)" />
+<Entry OldName="TwitteCreatebyLangit.copy.InitializeComponent()" NewName="TwitteCreatebyLangit.copy.c54ea232b465c2f4fdd91f7bd6db82dd6()" />
+<Entry OldName="TwitteCreatebyLangit.copy.get_Panel1()" NewName="TwitteCreatebyLangit.copy.get_c5df2fcdc6f49992a1096ce00498f4a22()" />
+<Entry OldName="TwitteCreatebyLangit.copy.set_Panel1(Panel WithEventsValue)" NewName="TwitteCreatebyLangit.copy.set_c5df2fcdc6f49992a1096ce00498f4a22(Panel c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.copy.get_Label8()" NewName="TwitteCreatebyLangit.copy.get_cf4bd00696e1d0b6166a17a7832bf999f()" />
+<Entry OldName="TwitteCreatebyLangit.copy.set_Label8(Label WithEventsValue)" NewName="TwitteCreatebyLangit.copy.set_cf4bd00696e1d0b6166a17a7832bf999f(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.harga.InitializeComponent()" NewName="TwitteCreatebyLangit.harga.c54ea232b465c2f4fdd91f7bd6db82dd6()" />
+<Entry OldName="TwitteCreatebyLangit.harga.get_Panel1()" NewName="TwitteCreatebyLangit.harga.get_c5df2fcdc6f49992a1096ce00498f4a22()" />
+<Entry OldName="TwitteCreatebyLangit.harga.set_Panel1(Panel WithEventsValue)" NewName="TwitteCreatebyLangit.harga.set_c5df2fcdc6f49992a1096ce00498f4a22(Panel c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.harga.get_Panel2()" NewName="TwitteCreatebyLangit.harga.get_c41d22559cfdfe2d0e129855fce0c02d7()" />
+<Entry OldName="TwitteCreatebyLangit.harga.set_Panel2(Panel WithEventsValue)" NewName="TwitteCreatebyLangit.harga.set_c41d22559cfdfe2d0e129855fce0c02d7(Panel c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.harga.get_Panel3()" NewName="TwitteCreatebyLangit.harga.get_c079fd34bc85851f9924ed223f555ad8d()" />
+<Entry OldName="TwitteCreatebyLangit.harga.set_Panel3(Panel WithEventsValue)" NewName="TwitteCreatebyLangit.harga.set_c079fd34bc85851f9924ed223f555ad8d(Panel c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.harga.get_Label7()" NewName="TwitteCreatebyLangit.harga.get_cfb532f47dc4379cd1f725a5475f0dffc()" />
+<Entry OldName="TwitteCreatebyLangit.harga.set_Label7(Label WithEventsValue)" NewName="TwitteCreatebyLangit.harga.set_cfb532f47dc4379cd1f725a5475f0dffc(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.harga.get_Label1()" NewName="TwitteCreatebyLangit.harga.get_c1ee7c0686e54792b3535c7eecb27fb7f()" />
+<Entry OldName="TwitteCreatebyLangit.harga.set_Label1(Label WithEventsValue)" NewName="TwitteCreatebyLangit.harga.set_c1ee7c0686e54792b3535c7eecb27fb7f(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.harga.get_Label2()" NewName="TwitteCreatebyLangit.harga.get_c02c37015f9a7c2ed75de8dadc55d343a()" />
+<Entry OldName="TwitteCreatebyLangit.harga.set_Label2(Label WithEventsValue)" NewName="TwitteCreatebyLangit.harga.set_c02c37015f9a7c2ed75de8dadc55d343a(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.harga.get_Label3()" NewName="TwitteCreatebyLangit.harga.get_c8ffaa5410daaecc834e55466d9dee9ab()" />
+<Entry OldName="TwitteCreatebyLangit.harga.set_Label3(Label WithEventsValue)" NewName="TwitteCreatebyLangit.harga.set_c8ffaa5410daaecc834e55466d9dee9ab(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.harga.get_Label4()" NewName="TwitteCreatebyLangit.harga.get_c40d76dc483e8ebf8d5b952d60f80b080()" />
+<Entry OldName="TwitteCreatebyLangit.harga.set_Label4(Label WithEventsValue)" NewName="TwitteCreatebyLangit.harga.set_c40d76dc483e8ebf8d5b952d60f80b080(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.harga.get_Label5()" NewName="TwitteCreatebyLangit.harga.get_c22c8a330f3106aeaff49dc4d76c46aa5()" />
+<Entry OldName="TwitteCreatebyLangit.harga.set_Label5(Label WithEventsValue)" NewName="TwitteCreatebyLangit.harga.set_c22c8a330f3106aeaff49dc4d76c46aa5(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.harga.get_Label6()" NewName="TwitteCreatebyLangit.harga.get_c70608b950477612e1123268a3ccb4b12()" />
+<Entry OldName="TwitteCreatebyLangit.harga.set_Label6(Label WithEventsValue)" NewName="TwitteCreatebyLangit.harga.set_c70608b950477612e1123268a3ccb4b12(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.harga.get_Label8()" NewName="TwitteCreatebyLangit.harga.get_cf4bd00696e1d0b6166a17a7832bf999f()" />
+<Entry OldName="TwitteCreatebyLangit.harga.set_Label8(Label WithEventsValue)" NewName="TwitteCreatebyLangit.harga.set_cf4bd00696e1d0b6166a17a7832bf999f(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.harga.get_Label9()" NewName="TwitteCreatebyLangit.harga.get_c4f50dd446d4274ddad9a84f0759a86e8()" />
+<Entry OldName="TwitteCreatebyLangit.harga.set_Label9(Label WithEventsValue)" NewName="TwitteCreatebyLangit.harga.set_c4f50dd446d4274ddad9a84f0759a86e8(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.harga.get_PictureBox1()" NewName="TwitteCreatebyLangit.harga.get_cd001102cbaba505f6416ab3349ad1d08()" />
+<Entry OldName="TwitteCreatebyLangit.harga.set_PictureBox1(PictureBox WithEventsValue)" NewName="TwitteCreatebyLangit.harga.set_cd001102cbaba505f6416ab3349ad1d08(PictureBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.harga.get_PictureBox2()" NewName="TwitteCreatebyLangit.harga.get_cc4e222fcea15ca93b50c9764aa2e05ba()" />
+<Entry OldName="TwitteCreatebyLangit.harga.set_PictureBox2(PictureBox WithEventsValue)" NewName="TwitteCreatebyLangit.harga.set_cc4e222fcea15ca93b50c9764aa2e05ba(PictureBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.harga.get_PictureBox3()" NewName="TwitteCreatebyLangit.harga.get_cc9e8a5d765c946d3f8fb5ec01c78cc6a()" />
+<Entry OldName="TwitteCreatebyLangit.harga.set_PictureBox3(PictureBox WithEventsValue)" NewName="TwitteCreatebyLangit.harga.set_cc9e8a5d765c946d3f8fb5ec01c78cc6a(PictureBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.harga.get_PictureBox4()" NewName="TwitteCreatebyLangit.harga.get_c967bf1c290730c7a32009eebc63b649b()" />
+<Entry OldName="TwitteCreatebyLangit.harga.set_PictureBox4(PictureBox WithEventsValue)" NewName="TwitteCreatebyLangit.harga.set_c967bf1c290730c7a32009eebc63b649b(PictureBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.harga.get_PictureBox5()" NewName="TwitteCreatebyLangit.harga.get_c68a2cfc1ce5f833e29ee9606f6947757()" />
+<Entry OldName="TwitteCreatebyLangit.harga.set_PictureBox5(PictureBox WithEventsValue)" NewName="TwitteCreatebyLangit.harga.set_c68a2cfc1ce5f833e29ee9606f6947757(PictureBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.harga.get_PictureBox6()" NewName="TwitteCreatebyLangit.harga.get_c847e8d9e7b75863c86cba0545500471b()" />
+<Entry OldName="TwitteCreatebyLangit.harga.set_PictureBox6(PictureBox WithEventsValue)" NewName="TwitteCreatebyLangit.harga.set_c847e8d9e7b75863c86cba0545500471b(PictureBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.harga.get_PictureBox8()" NewName="TwitteCreatebyLangit.harga.get_ce6c113fb983b5fa90f7104e5b4d2779c()" />
+<Entry OldName="TwitteCreatebyLangit.harga.set_PictureBox8(PictureBox WithEventsValue)" NewName="TwitteCreatebyLangit.harga.set_ce6c113fb983b5fa90f7104e5b4d2779c(PictureBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.harga.get_PictureBox9()" NewName="TwitteCreatebyLangit.harga.get_c10d1304c5af231494edda5527730c031()" />
+<Entry OldName="TwitteCreatebyLangit.harga.set_PictureBox9(PictureBox WithEventsValue)" NewName="TwitteCreatebyLangit.harga.set_c10d1304c5af231494edda5527730c031(PictureBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.harga.get_PictureBox10()" NewName="TwitteCreatebyLangit.harga.get_cbdacc9f420c83f64a6e4317724f7a803()" />
+<Entry OldName="TwitteCreatebyLangit.harga.set_PictureBox10(PictureBox WithEventsValue)" NewName="TwitteCreatebyLangit.harga.set_cbdacc9f420c83f64a6e4317724f7a803(PictureBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.harga.get_PictureBox11()" NewName="TwitteCreatebyLangit.harga.get_cc3ba88ad438b3af5936f0f8f36908468()" />
+<Entry OldName="TwitteCreatebyLangit.harga.set_PictureBox11(PictureBox WithEventsValue)" NewName="TwitteCreatebyLangit.harga.set_cc3ba88ad438b3af5936f0f8f36908468(PictureBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.harga.get_PictureBox13()" NewName="TwitteCreatebyLangit.harga.get_c5c9c31db57c01a82bf46e00b109ea8ca()" />
+<Entry OldName="TwitteCreatebyLangit.harga.set_PictureBox13(PictureBox WithEventsValue)" NewName="TwitteCreatebyLangit.harga.set_c5c9c31db57c01a82bf46e00b109ea8ca(PictureBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.harga.get_PictureBox14()" NewName="TwitteCreatebyLangit.harga.get_c258bc279e69d04699a0c529ce9066622()" />
+<Entry OldName="TwitteCreatebyLangit.harga.set_PictureBox14(PictureBox WithEventsValue)" NewName="TwitteCreatebyLangit.harga.set_c258bc279e69d04699a0c529ce9066622(PictureBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.harga.get_PictureBox15()" NewName="TwitteCreatebyLangit.harga.get_c13f4f8e543e0c8fd026923f8654ccf57()" />
+<Entry OldName="TwitteCreatebyLangit.harga.set_PictureBox15(PictureBox WithEventsValue)" NewName="TwitteCreatebyLangit.harga.set_c13f4f8e543e0c8fd026923f8654ccf57(PictureBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.harga.get_PictureBox16()" NewName="TwitteCreatebyLangit.harga.get_c6634316ba4aa143ca1424522af5c7454()" />
+<Entry OldName="TwitteCreatebyLangit.harga.set_PictureBox16(PictureBox WithEventsValue)" NewName="TwitteCreatebyLangit.harga.set_c6634316ba4aa143ca1424522af5c7454(PictureBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.harga.get_PictureBox17()" NewName="TwitteCreatebyLangit.harga.get_c9c657f97386e9c1beb3960ac59b0120e()" />
+<Entry OldName="TwitteCreatebyLangit.harga.set_PictureBox17(PictureBox WithEventsValue)" NewName="TwitteCreatebyLangit.harga.set_c9c657f97386e9c1beb3960ac59b0120e(PictureBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.harga.get_PictureBox18()" NewName="TwitteCreatebyLangit.harga.get_c2dab369812d9addee0d61604645fac4d()" />
+<Entry OldName="TwitteCreatebyLangit.harga.set_PictureBox18(PictureBox WithEventsValue)" NewName="TwitteCreatebyLangit.harga.set_c2dab369812d9addee0d61604645fac4d(PictureBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.harga.get_btnOrder1()" NewName="TwitteCreatebyLangit.harga.get_c94e097655fad7f851466b63da3bab661()" />
+<Entry OldName="TwitteCreatebyLangit.harga.set_btnOrder1(Button WithEventsValue)" NewName="TwitteCreatebyLangit.harga.set_c94e097655fad7f851466b63da3bab661(Button c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.harga.get_btnOrder2()" NewName="TwitteCreatebyLangit.harga.get_ce047afc39750e281771dd66e51b559d4()" />
+<Entry OldName="TwitteCreatebyLangit.harga.set_btnOrder2(Button WithEventsValue)" NewName="TwitteCreatebyLangit.harga.set_ce047afc39750e281771dd66e51b559d4(Button c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.harga.get_btnOrder3()" NewName="TwitteCreatebyLangit.harga.get_c3eb5b562ec507edd681fd03108293410()" />
+<Entry OldName="TwitteCreatebyLangit.harga.set_btnOrder3(Button WithEventsValue)" NewName="TwitteCreatebyLangit.harga.set_c3eb5b562ec507edd681fd03108293410(Button c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.harga.get_Label11()" NewName="TwitteCreatebyLangit.harga.get_ca9ca344c411442922d5b822b148689b7()" />
+<Entry OldName="TwitteCreatebyLangit.harga.set_Label11(Label WithEventsValue)" NewName="TwitteCreatebyLangit.harga.set_ca9ca344c411442922d5b822b148689b7(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.harga.get_Label12()" NewName="TwitteCreatebyLangit.harga.get_cc07ce0867d2390db577560f439d999dd()" />
+<Entry OldName="TwitteCreatebyLangit.harga.set_Label12(Label WithEventsValue)" NewName="TwitteCreatebyLangit.harga.set_cc07ce0867d2390db577560f439d999dd(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.harga.get_Label13()" NewName="TwitteCreatebyLangit.harga.get_ca5fe42fc532157ddb8bdc88cd4a0d398()" />
+<Entry OldName="TwitteCreatebyLangit.harga.set_Label13(Label WithEventsValue)" NewName="TwitteCreatebyLangit.harga.set_ca5fe42fc532157ddb8bdc88cd4a0d398(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.harga.get_Label14()" NewName="TwitteCreatebyLangit.harga.get_c65e09e69e2f289e809765fd3eaadbb78()" />
+<Entry OldName="TwitteCreatebyLangit.harga.set_Label14(Label WithEventsValue)" NewName="TwitteCreatebyLangit.harga.set_c65e09e69e2f289e809765fd3eaadbb78(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.harga.get_btnTutup()" NewName="TwitteCreatebyLangit.harga.get_cf40e9c2ab86036e555f06dfd488960ed()" />
+<Entry OldName="TwitteCreatebyLangit.harga.set_btnTutup(Button WithEventsValue)" NewName="TwitteCreatebyLangit.harga.set_cf40e9c2ab86036e555f06dfd488960ed(Button c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.harga.get_PictureBox12()" NewName="TwitteCreatebyLangit.harga.get_c4f23ff7b20c39972158c1a56c489979b()" />
+<Entry OldName="TwitteCreatebyLangit.harga.set_PictureBox12(PictureBox WithEventsValue)" NewName="TwitteCreatebyLangit.harga.set_c4f23ff7b20c39972158c1a56c489979b(PictureBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.harga.get_PictureBox7()" NewName="TwitteCreatebyLangit.harga.get_c35d60c7cfe766cd0117d1c57e6eae956()" />
+<Entry OldName="TwitteCreatebyLangit.harga.set_PictureBox7(PictureBox WithEventsValue)" NewName="TwitteCreatebyLangit.harga.set_c35d60c7cfe766cd0117d1c57e6eae956(PictureBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.harga.btnOrder1_Click(Object sender, EventArgs e)" NewName="TwitteCreatebyLangit.harga.c61e6bf1ed27e50b6196dbcffe5349530(Object c730060d19264306a87999e69a02cf1b2, EventArgs cc32ccc2b805afc8ecd11b34497ef4d26)" />
+<Entry OldName="TwitteCreatebyLangit.harga.btnOrder2_Click(Object sender, EventArgs e)" NewName="TwitteCreatebyLangit.harga.c95048348081afed1159b51e42686c38e(Object c730060d19264306a87999e69a02cf1b2, EventArgs cc32ccc2b805afc8ecd11b34497ef4d26)" />
+<Entry OldName="TwitteCreatebyLangit.harga.btnOrder3_Click(Object sender, EventArgs e)" NewName="TwitteCreatebyLangit.harga.c8f7a6059aa8748ebfa0a39d6bb08d615(Object c730060d19264306a87999e69a02cf1b2, EventArgs cc32ccc2b805afc8ecd11b34497ef4d26)" />
+<Entry OldName="TwitteCreatebyLangit.harga.harga_Load(Object sender, EventArgs e)" NewName="TwitteCreatebyLangit.harga.c0d91876d310e39087b08c4c64d559655(Object c730060d19264306a87999e69a02cf1b2, EventArgs cc32ccc2b805afc8ecd11b34497ef4d26)" />
+<Entry OldName="TwitteCreatebyLangit.harga.btnTutup_Click(Object sender, EventArgs e)" NewName="TwitteCreatebyLangit.harga.c8caa6b846fb643e61a9793f3f3098a5d(Object c730060d19264306a87999e69a02cf1b2, EventArgs cc32ccc2b805afc8ecd11b34497ef4d26)" />
+<Entry OldName="TwitteCreatebyLangit.login.InitializeComponent()" NewName="TwitteCreatebyLangit.login.c54ea232b465c2f4fdd91f7bd6db82dd6()" />
+<Entry OldName="TwitteCreatebyLangit.login.get_txtUser()" NewName="TwitteCreatebyLangit.login.get_cd65712bdf5a335c81ea4cda67846e33c()" />
+<Entry OldName="TwitteCreatebyLangit.login.set_txtUser(TextBox WithEventsValue)" NewName="TwitteCreatebyLangit.login.set_cd65712bdf5a335c81ea4cda67846e33c(TextBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.login.get_txtPass()" NewName="TwitteCreatebyLangit.login.get_c0fd1eb3f6dd095ba8241411c9b215d53()" />
+<Entry OldName="TwitteCreatebyLangit.login.set_txtPass(TextBox WithEventsValue)" NewName="TwitteCreatebyLangit.login.set_c0fd1eb3f6dd095ba8241411c9b215d53(TextBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.login.get_PictureBox1()" NewName="TwitteCreatebyLangit.login.get_cd001102cbaba505f6416ab3349ad1d08()" />
+<Entry OldName="TwitteCreatebyLangit.login.set_PictureBox1(PictureBox WithEventsValue)" NewName="TwitteCreatebyLangit.login.set_cd001102cbaba505f6416ab3349ad1d08(PictureBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.login.get_PictureBox2()" NewName="TwitteCreatebyLangit.login.get_cc4e222fcea15ca93b50c9764aa2e05ba()" />
+<Entry OldName="TwitteCreatebyLangit.login.set_PictureBox2(PictureBox WithEventsValue)" NewName="TwitteCreatebyLangit.login.set_cc4e222fcea15ca93b50c9764aa2e05ba(PictureBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.login.get_btnLogin()" NewName="TwitteCreatebyLangit.login.get_c132158d57d41228fba7c874aedc085b7()" />
+<Entry OldName="TwitteCreatebyLangit.login.set_btnLogin(Button WithEventsValue)" NewName="TwitteCreatebyLangit.login.set_c132158d57d41228fba7c874aedc085b7(Button c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.login.get_btnEx()" NewName="TwitteCreatebyLangit.login.get_c9a7511d7364abf3a7eeafd70c7841c2f()" />
+<Entry OldName="TwitteCreatebyLangit.login.set_btnEx(Button WithEventsValue)" NewName="TwitteCreatebyLangit.login.set_c9a7511d7364abf3a7eeafd70c7841c2f(Button c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.login.get_Label1()" NewName="TwitteCreatebyLangit.login.get_c1ee7c0686e54792b3535c7eecb27fb7f()" />
+<Entry OldName="TwitteCreatebyLangit.login.set_Label1(Label WithEventsValue)" NewName="TwitteCreatebyLangit.login.set_c1ee7c0686e54792b3535c7eecb27fb7f(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.login.get_Label2()" NewName="TwitteCreatebyLangit.login.get_c02c37015f9a7c2ed75de8dadc55d343a()" />
+<Entry OldName="TwitteCreatebyLangit.login.set_Label2(Label WithEventsValue)" NewName="TwitteCreatebyLangit.login.set_c02c37015f9a7c2ed75de8dadc55d343a(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.login.get_Label3()" NewName="TwitteCreatebyLangit.login.get_c8ffaa5410daaecc834e55466d9dee9ab()" />
+<Entry OldName="TwitteCreatebyLangit.login.set_Label3(Label WithEventsValue)" NewName="TwitteCreatebyLangit.login.set_c8ffaa5410daaecc834e55466d9dee9ab(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.login.get_Label4()" NewName="TwitteCreatebyLangit.login.get_c40d76dc483e8ebf8d5b952d60f80b080()" />
+<Entry OldName="TwitteCreatebyLangit.login.set_Label4(Label WithEventsValue)" NewName="TwitteCreatebyLangit.login.set_c40d76dc483e8ebf8d5b952d60f80b080(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.login.get_btnUser()" NewName="TwitteCreatebyLangit.login.get_c499effe7a876b190054c9413a6a139a3()" />
+<Entry OldName="TwitteCreatebyLangit.login.set_btnUser(Button WithEventsValue)" NewName="TwitteCreatebyLangit.login.set_c499effe7a876b190054c9413a6a139a3(Button c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.login.get_lblTgl()" NewName="TwitteCreatebyLangit.login.get_c3ff4794c9cda46929db6dcffbbca092f()" />
+<Entry OldName="TwitteCreatebyLangit.login.set_lblTgl(Label WithEventsValue)" NewName="TwitteCreatebyLangit.login.set_c3ff4794c9cda46929db6dcffbbca092f(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.login.login_Load(Object sender, EventArgs e)" NewName="TwitteCreatebyLangit.login.c3a85d7fe67a98c976e74f13d7ba118e0(Object c730060d19264306a87999e69a02cf1b2, EventArgs cc32ccc2b805afc8ecd11b34497ef4d26)" />
+<Entry OldName="TwitteCreatebyLangit.login.btnEx_Click(Object sender, EventArgs e)" NewName="TwitteCreatebyLangit.login.c796c4ddd40ce995579e772084896be1b(Object c730060d19264306a87999e69a02cf1b2, EventArgs cc32ccc2b805afc8ecd11b34497ef4d26)" />
+<Entry OldName="TwitteCreatebyLangit.login.btnLogin_Click(Object sender, EventArgs e)" NewName="TwitteCreatebyLangit.login.cb1029a1ebed1f977d7a216f4b278f3e7(Object c730060d19264306a87999e69a02cf1b2, EventArgs cc32ccc2b805afc8ecd11b34497ef4d26)" />
+<Entry OldName="TwitteCreatebyLangit.login.Label4_Click(Object sender, EventArgs e)" NewName="TwitteCreatebyLangit.login.cad7a0bd580ceab30e9c6317ec08a81cd(Object c730060d19264306a87999e69a02cf1b2, EventArgs cc32ccc2b805afc8ecd11b34497ef4d26)" />
+<Entry OldName="TwitteCreatebyLangit.login.btnUser_Click(Object sender, EventArgs e)" NewName="TwitteCreatebyLangit.login.c39e57cf0b640033cdca271a6f5854f15(Object c730060d19264306a87999e69a02cf1b2, EventArgs cc32ccc2b805afc8ecd11b34497ef4d26)" />
+<Entry OldName="TwitteCreatebyLangit.login.txtUser_MouseClick(Object sender, MouseEventArgs e)" NewName="TwitteCreatebyLangit.login.ce661023784b6fcd2dc8d9dd937c8d52b(Object c730060d19264306a87999e69a02cf1b2, MouseEventArgs cc32ccc2b805afc8ecd11b34497ef4d26)" />
+<Entry OldName="TwitteCreatebyLangit.login.txtPass_KeyPress(Object sender, KeyPressEventArgs e)" NewName="TwitteCreatebyLangit.login.c0e942cf09757136b59857f020627cd76(Object c730060d19264306a87999e69a02cf1b2, KeyPressEventArgs cc32ccc2b805afc8ecd11b34497ef4d26)" />
+<Entry OldName="TwitteCreatebyLangit.login.txtPass_MouseClick(Object sender, MouseEventArgs e)" NewName="TwitteCreatebyLangit.login.c7bd3c56a513c850183d4d67b0e28eaa5(Object c730060d19264306a87999e69a02cf1b2, MouseEventArgs cc32ccc2b805afc8ecd11b34497ef4d26)" />
+<Entry OldName="TwitteCreatebyLangit.main.InitializeComponent()" NewName="TwitteCreatebyLangit.main.c54ea232b465c2f4fdd91f7bd6db82dd6()" />
+<Entry OldName="TwitteCreatebyLangit.main.get_btnLogout()" NewName="TwitteCreatebyLangit.main.get_c10c9940005e254f222490b5f24134bfc()" />
+<Entry OldName="TwitteCreatebyLangit.main.set_btnLogout(Button WithEventsValue)" NewName="TwitteCreatebyLangit.main.set_c10c9940005e254f222490b5f24134bfc(Button c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.main.get_WebBrowser1()" NewName="TwitteCreatebyLangit.main.get_c71f0b24b9da9702218a203abe7de8695()" />
+<Entry OldName="TwitteCreatebyLangit.main.set_WebBrowser1(WebBrowser WithEventsValue)" NewName="TwitteCreatebyLangit.main.set_c71f0b24b9da9702218a203abe7de8695(WebBrowser c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.main.get_btnTambah()" NewName="TwitteCreatebyLangit.main.get_c17d06e9f81d3ac5d058617bafe3c5b65()" />
+<Entry OldName="TwitteCreatebyLangit.main.set_btnTambah(Button WithEventsValue)" NewName="TwitteCreatebyLangit.main.set_c17d06e9f81d3ac5d058617bafe3c5b65(Button c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.main.get_TextBox1()" NewName="TwitteCreatebyLangit.main.get_c501c355aa15cebfb994da41b48012bd1()" />
+<Entry OldName="TwitteCreatebyLangit.main.set_TextBox1(TextBox WithEventsValue)" NewName="TwitteCreatebyLangit.main.set_c501c355aa15cebfb994da41b48012bd1(TextBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.main.get_btnBaru()" NewName="TwitteCreatebyLangit.main.get_ce800d1604d21ed500f18ba4ea237b809()" />
+<Entry OldName="TwitteCreatebyLangit.main.set_btnBaru(Button WithEventsValue)" NewName="TwitteCreatebyLangit.main.set_ce800d1604d21ed500f18ba4ea237b809(Button c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.main.get_TextBox2()" NewName="TwitteCreatebyLangit.main.get_ca03d60dfe5ff8c5b85143fdc2af88a9e()" />
+<Entry OldName="TwitteCreatebyLangit.main.set_TextBox2(TextBox WithEventsValue)" NewName="TwitteCreatebyLangit.main.set_ca03d60dfe5ff8c5b85143fdc2af88a9e(TextBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.main.get_TextBox3()" NewName="TwitteCreatebyLangit.main.get_cf629330b34f40a9658613400b87348d0()" />
+<Entry OldName="TwitteCreatebyLangit.main.set_TextBox3(TextBox WithEventsValue)" NewName="TwitteCreatebyLangit.main.set_cf629330b34f40a9658613400b87348d0(TextBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.main.get_btnEmail()" NewName="TwitteCreatebyLangit.main.get_cd1531be132f93da99c5a48507ea7458e()" />
+<Entry OldName="TwitteCreatebyLangit.main.set_btnEmail(Button WithEventsValue)" NewName="TwitteCreatebyLangit.main.set_cd1531be132f93da99c5a48507ea7458e(Button c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.main.get_txtIds()" NewName="TwitteCreatebyLangit.main.get_cfef93864fd59addc759cdc787eda3d8d()" />
+<Entry OldName="TwitteCreatebyLangit.main.set_txtIds(TextBox WithEventsValue)" NewName="TwitteCreatebyLangit.main.set_cfef93864fd59addc759cdc787eda3d8d(TextBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.main.get_Label1()" NewName="TwitteCreatebyLangit.main.get_c1ee7c0686e54792b3535c7eecb27fb7f()" />
+<Entry OldName="TwitteCreatebyLangit.main.set_Label1(Label WithEventsValue)" NewName="TwitteCreatebyLangit.main.set_c1ee7c0686e54792b3535c7eecb27fb7f(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.main.get_Label2()" NewName="TwitteCreatebyLangit.main.get_c02c37015f9a7c2ed75de8dadc55d343a()" />
+<Entry OldName="TwitteCreatebyLangit.main.set_Label2(Label WithEventsValue)" NewName="TwitteCreatebyLangit.main.set_c02c37015f9a7c2ed75de8dadc55d343a(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.main.get_Label3()" NewName="TwitteCreatebyLangit.main.get_c8ffaa5410daaecc834e55466d9dee9ab()" />
+<Entry OldName="TwitteCreatebyLangit.main.set_Label3(Label WithEventsValue)" NewName="TwitteCreatebyLangit.main.set_c8ffaa5410daaecc834e55466d9dee9ab(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.main.get_GroupBox1()" NewName="TwitteCreatebyLangit.main.get_c836eb1dc736109fc118e41892d2edbe0()" />
+<Entry OldName="TwitteCreatebyLangit.main.set_GroupBox1(GroupBox WithEventsValue)" NewName="TwitteCreatebyLangit.main.set_c836eb1dc736109fc118e41892d2edbe0(GroupBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.main.get_btnProf()" NewName="TwitteCreatebyLangit.main.get_c79f121c2ee40d13f9a513ec1a6e31c4d()" />
+<Entry OldName="TwitteCreatebyLangit.main.set_btnProf(Button WithEventsValue)" NewName="TwitteCreatebyLangit.main.set_c79f121c2ee40d13f9a513ec1a6e31c4d(Button c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.main.get_txtUrl()" NewName="TwitteCreatebyLangit.main.get_c4af167dbb19dabd1c0f10d7ac6a6092d()" />
+<Entry OldName="TwitteCreatebyLangit.main.set_txtUrl(TextBox WithEventsValue)" NewName="TwitteCreatebyLangit.main.set_c4af167dbb19dabd1c0f10d7ac6a6092d(TextBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.main.get_lblSelesai()" NewName="TwitteCreatebyLangit.main.get_c7486344879eaf4b30235f633f7927eab()" />
+<Entry OldName="TwitteCreatebyLangit.main.set_lblSelesai(Label WithEventsValue)" NewName="TwitteCreatebyLangit.main.set_c7486344879eaf4b30235f633f7927eab(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.main.get_lbHasil()" NewName="TwitteCreatebyLangit.main.get_c3b3c84ff0630851b356eb58229c6ba9c()" />
+<Entry OldName="TwitteCreatebyLangit.main.set_lbHasil(ListBox WithEventsValue)" NewName="TwitteCreatebyLangit.main.set_c3b3c84ff0630851b356eb58229c6ba9c(ListBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.main.get_btnCopy()" NewName="TwitteCreatebyLangit.main.get_c9fe4fc869a37efc093ba3bb8e7b7744a()" />
+<Entry OldName="TwitteCreatebyLangit.main.set_btnCopy(Button WithEventsValue)" NewName="TwitteCreatebyLangit.main.set_c9fe4fc869a37efc093ba3bb8e7b7744a(Button c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.main.get_btnSimpan()" NewName="TwitteCreatebyLangit.main.get_cc4daa703998753fd17d942bc7898b0ea()" />
+<Entry OldName="TwitteCreatebyLangit.main.set_btnSimpan(Button WithEventsValue)" NewName="TwitteCreatebyLangit.main.set_cc4daa703998753fd17d942bc7898b0ea(Button c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.main.get_sf1()" NewName="TwitteCreatebyLangit.main.get_ca9b3dcb23b6a0ec4ee3d9a2d9ee35b02()" />
+<Entry OldName="TwitteCreatebyLangit.main.set_sf1(SaveFileDialog WithEventsValue)" NewName="TwitteCreatebyLangit.main.set_ca9b3dcb23b6a0ec4ee3d9a2d9ee35b02(SaveFileDialog c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.main.get_lblNama()" NewName="TwitteCreatebyLangit.main.get_ceb00f74fa954cacac8f1552fd21a219f()" />
+<Entry OldName="TwitteCreatebyLangit.main.set_lblNama(Label WithEventsValue)" NewName="TwitteCreatebyLangit.main.set_ceb00f74fa954cacac8f1552fd21a219f(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.main.get_lblBio()" NewName="TwitteCreatebyLangit.main.get_c6721ef3afbb38385686b63e25877400a()" />
+<Entry OldName="TwitteCreatebyLangit.main.set_lblBio(Label WithEventsValue)" NewName="TwitteCreatebyLangit.main.set_c6721ef3afbb38385686b63e25877400a(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.main.get_lblUrl()" NewName="TwitteCreatebyLangit.main.get_c5762cc3a70e58dafc9098dc7d7cd5933()" />
+<Entry OldName="TwitteCreatebyLangit.main.set_lblUrl(Label WithEventsValue)" NewName="TwitteCreatebyLangit.main.set_c5762cc3a70e58dafc9098dc7d7cd5933(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.main.get_lblLokasi()" NewName="TwitteCreatebyLangit.main.get_cb437e6e416da68f1596ce826a6a9fa6e()" />
+<Entry OldName="TwitteCreatebyLangit.main.set_lblLokasi(Label WithEventsValue)" NewName="TwitteCreatebyLangit.main.set_cb437e6e416da68f1596ce826a6a9fa6e(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.main.get_lblAkun1()" NewName="TwitteCreatebyLangit.main.get_cd35a84520304e2f8d6fd617e93a9e47d()" />
+<Entry OldName="TwitteCreatebyLangit.main.set_lblAkun1(Label WithEventsValue)" NewName="TwitteCreatebyLangit.main.set_cd35a84520304e2f8d6fd617e93a9e47d(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.main.get_lblAkun2()" NewName="TwitteCreatebyLangit.main.get_ca8e30d1f02bc2ff66e60531c7559c862()" />
+<Entry OldName="TwitteCreatebyLangit.main.set_lblAkun2(Label WithEventsValue)" NewName="TwitteCreatebyLangit.main.set_ca8e30d1f02bc2ff66e60531c7559c862(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.main.get_lblTweet1()" NewName="TwitteCreatebyLangit.main.get_c8518a7bfd2718eb4fbec3f5b16b1992f()" />
+<Entry OldName="TwitteCreatebyLangit.main.set_lblTweet1(Label WithEventsValue)" NewName="TwitteCreatebyLangit.main.set_c8518a7bfd2718eb4fbec3f5b16b1992f(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.main.get_lblAuto()" NewName="TwitteCreatebyLangit.main.get_c7015687f46689c5ae6ac31c6b4328dcb()" />
+<Entry OldName="TwitteCreatebyLangit.main.set_lblAuto(Label WithEventsValue)" NewName="TwitteCreatebyLangit.main.set_c7015687f46689c5ae6ac31c6b4328dcb(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.main.get_cbAuto()" NewName="TwitteCreatebyLangit.main.get_cdb22ab73f25f783f01f238c6b586bba7()" />
+<Entry OldName="TwitteCreatebyLangit.main.set_cbAuto(CheckBox WithEventsValue)" NewName="TwitteCreatebyLangit.main.set_cdb22ab73f25f783f01f238c6b586bba7(CheckBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.main.get_GroupBox2()" NewName="TwitteCreatebyLangit.main.get_c6a6ea6f2b87badc8af77806bebf47bdb()" />
+<Entry OldName="TwitteCreatebyLangit.main.set_GroupBox2(GroupBox WithEventsValue)" NewName="TwitteCreatebyLangit.main.set_c6a6ea6f2b87badc8af77806bebf47bdb(GroupBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.main.get_GroupBox3()" NewName="TwitteCreatebyLangit.main.get_c8f4837d9e0fa1e73976170d31f77c4ec()" />
+<Entry OldName="TwitteCreatebyLangit.main.set_GroupBox3(GroupBox WithEventsValue)" NewName="TwitteCreatebyLangit.main.set_c8f4837d9e0fa1e73976170d31f77c4ec(GroupBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.main.get_PictureBox1()" NewName="TwitteCreatebyLangit.main.get_cd001102cbaba505f6416ab3349ad1d08()" />
+<Entry OldName="TwitteCreatebyLangit.main.set_PictureBox1(PictureBox WithEventsValue)" NewName="TwitteCreatebyLangit.main.set_cd001102cbaba505f6416ab3349ad1d08(PictureBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.main.get_GroupBox4()" NewName="TwitteCreatebyLangit.main.get_cd7690a9558aaf83d82c98f7eb004ec1d()" />
+<Entry OldName="TwitteCreatebyLangit.main.set_GroupBox4(GroupBox WithEventsValue)" NewName="TwitteCreatebyLangit.main.set_cd7690a9558aaf83d82c98f7eb004ec1d(GroupBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.main.get_Label4()" NewName="TwitteCreatebyLangit.main.get_c40d76dc483e8ebf8d5b952d60f80b080()" />
+<Entry OldName="TwitteCreatebyLangit.main.set_Label4(Label WithEventsValue)" NewName="TwitteCreatebyLangit.main.set_c40d76dc483e8ebf8d5b952d60f80b080(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.main.get_btnKeluar()" NewName="TwitteCreatebyLangit.main.get_cc7036b70b0a7fdc7d64be730bf013a70()" />
+<Entry OldName="TwitteCreatebyLangit.main.set_btnKeluar(Button WithEventsValue)" NewName="TwitteCreatebyLangit.main.set_cc7036b70b0a7fdc7d64be730bf013a70(Button c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.main.get_btnAbout()" NewName="TwitteCreatebyLangit.main.get_cce93cc61d01c26b627fb29f211e63d30()" />
+<Entry OldName="TwitteCreatebyLangit.main.set_btnAbout(Button WithEventsValue)" NewName="TwitteCreatebyLangit.main.set_cce93cc61d01c26b627fb29f211e63d30(Button c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.main.get_GroupBox5()" NewName="TwitteCreatebyLangit.main.get_cc8048596799c1f9cb7883ab8eec0d5a6()" />
+<Entry OldName="TwitteCreatebyLangit.main.set_GroupBox5(GroupBox WithEventsValue)" NewName="TwitteCreatebyLangit.main.set_cc8048596799c1f9cb7883ab8eec0d5a6(GroupBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.main.get_lblTweet2()" NewName="TwitteCreatebyLangit.main.get_ca8bb0801bf97cb1292ff37fcc511a5aa()" />
+<Entry OldName="TwitteCreatebyLangit.main.set_lblTweet2(Label WithEventsValue)" NewName="TwitteCreatebyLangit.main.set_ca8bb0801bf97cb1292ff37fcc511a5aa(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.main.get_WebBrowser2()" NewName="TwitteCreatebyLangit.main.get_c40004315af9c900946626c77e3c1257a()" />
+<Entry OldName="TwitteCreatebyLangit.main.set_WebBrowser2(WebBrowser WithEventsValue)" NewName="TwitteCreatebyLangit.main.set_c40004315af9c900946626c77e3c1257a(WebBrowser c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.main.get_GroupBox6()" NewName="TwitteCreatebyLangit.main.get_c0f04a301c655398b0974d3087705841a()" />
+<Entry OldName="TwitteCreatebyLangit.main.set_GroupBox6(GroupBox WithEventsValue)" NewName="TwitteCreatebyLangit.main.set_c0f04a301c655398b0974d3087705841a(GroupBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.main.get_Label5()" NewName="TwitteCreatebyLangit.main.get_c22c8a330f3106aeaff49dc4d76c46aa5()" />
+<Entry OldName="TwitteCreatebyLangit.main.set_Label5(Label WithEventsValue)" NewName="TwitteCreatebyLangit.main.set_c22c8a330f3106aeaff49dc4d76c46aa5(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.main.get_lblProses()" NewName="TwitteCreatebyLangit.main.get_cf210f50de2514289d3fe7a37c3f7f7d0()" />
+<Entry OldName="TwitteCreatebyLangit.main.set_lblProses(Label WithEventsValue)" NewName="TwitteCreatebyLangit.main.set_cf210f50de2514289d3fe7a37c3f7f7d0(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.main.Button1_Click(Object sender, EventArgs e)" NewName="TwitteCreatebyLangit.main.cba5a60b567a8fe02365d56669806e5e0(Object c730060d19264306a87999e69a02cf1b2, EventArgs cc32ccc2b805afc8ecd11b34497ef4d26)" />
+<Entry OldName="TwitteCreatebyLangit.main.Form1_Activated(Object sender, EventArgs e)" NewName="TwitteCreatebyLangit.main.c542d667f10dc191ca56ca505c8567ff0(Object c730060d19264306a87999e69a02cf1b2, EventArgs cc32ccc2b805afc8ecd11b34497ef4d26)" />
+<Entry OldName="TwitteCreatebyLangit.main.Form1_Load(Object sender, EventArgs e)" NewName="TwitteCreatebyLangit.main.c10c59c219584e7db8a4b186647468d70(Object c730060d19264306a87999e69a02cf1b2, EventArgs cc32ccc2b805afc8ecd11b34497ef4d26)" />
+<Entry OldName="TwitteCreatebyLangit.main.Button4_Click(Object sender, EventArgs e)" NewName="TwitteCreatebyLangit.main.c363ada276e9174f6ed82ccf57e419c72(Object c730060d19264306a87999e69a02cf1b2, EventArgs cc32ccc2b805afc8ecd11b34497ef4d26)" />
+<Entry OldName="TwitteCreatebyLangit.main.btnBaru_Click(Object sender, EventArgs e)" NewName="TwitteCreatebyLangit.main.cdfc0563170403c6d59187084efe82056(Object c730060d19264306a87999e69a02cf1b2, EventArgs cc32ccc2b805afc8ecd11b34497ef4d26)" />
+<Entry OldName="TwitteCreatebyLangit.main.btnProf_Click(Object sender, EventArgs e)" NewName="TwitteCreatebyLangit.main.c7b6b5c91b4a7280a8b3425920eb73646(Object c730060d19264306a87999e69a02cf1b2, EventArgs cc32ccc2b805afc8ecd11b34497ef4d26)" />
+<Entry OldName="TwitteCreatebyLangit.main.btnTambah_Click(Object sender, EventArgs e)" NewName="TwitteCreatebyLangit.main.c5bfdf9500e8c33acbea65488262bd44a(Object c730060d19264306a87999e69a02cf1b2, EventArgs cc32ccc2b805afc8ecd11b34497ef4d26)" />
+<Entry OldName="TwitteCreatebyLangit.main.btnCopy_Click(Object sender, EventArgs e)" NewName="TwitteCreatebyLangit.main.c615385b8e0ffd93e61ffa660e9898156(Object c730060d19264306a87999e69a02cf1b2, EventArgs cc32ccc2b805afc8ecd11b34497ef4d26)" />
+<Entry OldName="TwitteCreatebyLangit.main.btnSimpan_Click(Object sender, EventArgs e)" NewName="TwitteCreatebyLangit.main.cb7ae51185114fbd58d417625b472c324(Object c730060d19264306a87999e69a02cf1b2, EventArgs cc32ccc2b805afc8ecd11b34497ef4d26)" />
+<Entry OldName="TwitteCreatebyLangit.main.cbAuto_CheckedChanged(Object sender, EventArgs e)" NewName="TwitteCreatebyLangit.main.c5073ac7c402bbd8a9aad5111a80fbb61(Object c730060d19264306a87999e69a02cf1b2, EventArgs cc32ccc2b805afc8ecd11b34497ef4d26)" />
+<Entry OldName="TwitteCreatebyLangit.main.btnKeluar_Click(Object sender, EventArgs e)" NewName="TwitteCreatebyLangit.main.ca5e9bcde44e8322cda80794668270f00(Object c730060d19264306a87999e69a02cf1b2, EventArgs cc32ccc2b805afc8ecd11b34497ef4d26)" />
+<Entry OldName="TwitteCreatebyLangit.main.btnAbout_Click(Object sender, EventArgs e)" NewName="TwitteCreatebyLangit.main.c10bcb3cb71c3df6d8dd50aaedf7e9c07(Object c730060d19264306a87999e69a02cf1b2, EventArgs cc32ccc2b805afc8ecd11b34497ef4d26)" />
+<Entry OldName="TwitteCreatebyLangit.main.WebBrowser1_DocumentCompleted(Object sender, WebBrowserDocumentCompletedEventArgs e)" NewName="TwitteCreatebyLangit.main.c7801cca28592f6052a9c65e20a7e0d0f(Object c730060d19264306a87999e69a02cf1b2, WebBrowserDocumentCompletedEventArgs cc32ccc2b805afc8ecd11b34497ef4d26)" />
+<Entry OldName="TwitteCreatebyLangit.main.WebBrowser2_DocumentCompleted(Object sender, WebBrowserDocumentCompletedEventArgs e)" NewName="TwitteCreatebyLangit.main.ceefda12035d967e1d8f342b66f32b797(Object c730060d19264306a87999e69a02cf1b2, WebBrowserDocumentCompletedEventArgs cc32ccc2b805afc8ecd11b34497ef4d26)" />
+<Entry OldName="TwitteCreatebyLangit.mimiti.InitializeComponent()" NewName="TwitteCreatebyLangit.mimiti.c54ea232b465c2f4fdd91f7bd6db82dd6()" />
+<Entry OldName="TwitteCreatebyLangit.mimiti.get_PictureBox1()" NewName="TwitteCreatebyLangit.mimiti.get_cd001102cbaba505f6416ab3349ad1d08()" />
+<Entry OldName="TwitteCreatebyLangit.mimiti.set_PictureBox1(PictureBox WithEventsValue)" NewName="TwitteCreatebyLangit.mimiti.set_cd001102cbaba505f6416ab3349ad1d08(PictureBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.mimiti.get_pb()" NewName="TwitteCreatebyLangit.mimiti.get_ca2c068d92846da4cd3ee895f11b9a107()" />
+<Entry OldName="TwitteCreatebyLangit.mimiti.set_pb(ProgressBar WithEventsValue)" NewName="TwitteCreatebyLangit.mimiti.set_ca2c068d92846da4cd3ee895f11b9a107(ProgressBar c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.mimiti.get_Panel1()" NewName="TwitteCreatebyLangit.mimiti.get_c5df2fcdc6f49992a1096ce00498f4a22()" />
+<Entry OldName="TwitteCreatebyLangit.mimiti.set_Panel1(Panel WithEventsValue)" NewName="TwitteCreatebyLangit.mimiti.set_c5df2fcdc6f49992a1096ce00498f4a22(Panel c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.mimiti.get_Label1()" NewName="TwitteCreatebyLangit.mimiti.get_c1ee7c0686e54792b3535c7eecb27fb7f()" />
+<Entry OldName="TwitteCreatebyLangit.mimiti.set_Label1(Label WithEventsValue)" NewName="TwitteCreatebyLangit.mimiti.set_c1ee7c0686e54792b3535c7eecb27fb7f(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.mimiti.get_Timer1()" NewName="TwitteCreatebyLangit.mimiti.get_c6cdaa2817dba4a6c977099b1ba596f9a()" />
+<Entry OldName="TwitteCreatebyLangit.mimiti.set_Timer1(Timer WithEventsValue)" NewName="TwitteCreatebyLangit.mimiti.set_c6cdaa2817dba4a6c977099b1ba596f9a(Timer c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.mimiti.get_Label2()" NewName="TwitteCreatebyLangit.mimiti.get_c02c37015f9a7c2ed75de8dadc55d343a()" />
+<Entry OldName="TwitteCreatebyLangit.mimiti.set_Label2(Label WithEventsValue)" NewName="TwitteCreatebyLangit.mimiti.set_c02c37015f9a7c2ed75de8dadc55d343a(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.mimiti.get_komponen()" NewName="TwitteCreatebyLangit.mimiti.get_c43639da4b70e7cede3cb2b9e7abf1432()" />
+<Entry OldName="TwitteCreatebyLangit.mimiti.set_komponen(Label WithEventsValue)" NewName="TwitteCreatebyLangit.mimiti.set_c43639da4b70e7cede3cb2b9e7abf1432(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.mimiti.get_loadtx()" NewName="TwitteCreatebyLangit.mimiti.get_c4f0e0b11e8d43110578c722a22193ebe()" />
+<Entry OldName="TwitteCreatebyLangit.mimiti.set_loadtx(Label WithEventsValue)" NewName="TwitteCreatebyLangit.mimiti.set_c4f0e0b11e8d43110578c722a22193ebe(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.mimiti.mimiti_Load(Object sender, EventArgs e)" NewName="TwitteCreatebyLangit.mimiti.c24d3da365e1d3c50c4eb42d53e87c82f(Object c730060d19264306a87999e69a02cf1b2, EventArgs cc32ccc2b805afc8ecd11b34497ef4d26)" />
+<Entry OldName="TwitteCreatebyLangit.mimiti.Timer1_Tick(Object sender, EventArgs e)" NewName="TwitteCreatebyLangit.mimiti.cbb9e19aa78e2d148800cb8c77098c86e(Object c730060d19264306a87999e69a02cf1b2, EventArgs cc32ccc2b805afc8ecd11b34497ef4d26)" />
+<Entry OldName="TwitteCreatebyLangit.My.Resources.Resources.get_ResourceManager()" NewName="A.c5fdefedcf1115d8027e202f27bdbb995.get_ResourceManager()" />
+<Entry OldName="TwitteCreatebyLangit.My.Resources.Resources.get_Culture()" NewName="A.c5fdefedcf1115d8027e202f27bdbb995.get_Culture()" />
+<Entry OldName="TwitteCreatebyLangit.My.Resources.Resources.set_Culture(CultureInfo Value)" NewName="A.c5fdefedcf1115d8027e202f27bdbb995.set_Culture(CultureInfo Value)" />
+<Entry OldName="TwitteCreatebyLangit.My.Resources.Resources.get_check_ok_mark_ready_checkmark_agree_accept_approved_choice_good_correct_verify_sign_32()" NewName="A.c5fdefedcf1115d8027e202f27bdbb995.get_check_ok_mark_ready_checkmark_agree_accept_approved_choice_good_correct_verify_sign_32()" />
+<Entry OldName="TwitteCreatebyLangit.My.Resources.Resources.get_danger_alert_attention_error_warning_delete_remove_2_48()" NewName="A.c5fdefedcf1115d8027e202f27bdbb995.get_danger_alert_attention_error_warning_delete_remove_2_48()" />
+<Entry OldName="TwitteCreatebyLangit.My.Resources.Resources.get_facebook_logo()" NewName="A.c5fdefedcf1115d8027e202f27bdbb995.get_facebook_logo()" />
+<Entry OldName="TwitteCreatebyLangit.My.Resources.Resources.get_Langit_Application()" NewName="A.c5fdefedcf1115d8027e202f27bdbb995.get_Langit_Application()" />
+<Entry OldName="TwitteCreatebyLangit.My.Resources.Resources.get_twitter_logo()" NewName="A.c5fdefedcf1115d8027e202f27bdbb995.get_twitter_logo()" />
+<Entry OldName="TwitteCreatebyLangit.My.MySettingsProperty.get_Settings()" NewName="A.c7b9556f6c67e5abefd643eab1f97666c.get_Settings()" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.InitializeComponent()" NewName="TwitteCreatebyLangit.pengaturan.c54ea232b465c2f4fdd91f7bd6db82dd6()" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.get_txtBio()" NewName="TwitteCreatebyLangit.pengaturan.get_c07c53c3f8f1139c82c431d463119e4bd()" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.set_txtBio(TextBox WithEventsValue)" NewName="TwitteCreatebyLangit.pengaturan.set_c07c53c3f8f1139c82c431d463119e4bd(TextBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.get_txtLokasi()" NewName="TwitteCreatebyLangit.pengaturan.get_c009af7a385244a364ac441f0bd9df8da()" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.set_txtLokasi(TextBox WithEventsValue)" NewName="TwitteCreatebyLangit.pengaturan.set_c009af7a385244a364ac441f0bd9df8da(TextBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.get_txtUrl()" NewName="TwitteCreatebyLangit.pengaturan.get_c4af167dbb19dabd1c0f10d7ac6a6092d()" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.set_txtUrl(TextBox WithEventsValue)" NewName="TwitteCreatebyLangit.pengaturan.set_c4af167dbb19dabd1c0f10d7ac6a6092d(TextBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.get_btnSelesai()" NewName="TwitteCreatebyLangit.pengaturan.get_c4dd4ce9eaa474299db0f8974c9de3e60()" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.set_btnSelesai(Button WithEventsValue)" NewName="TwitteCreatebyLangit.pengaturan.set_c4dd4ce9eaa474299db0f8974c9de3e60(Button c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.get_Label1()" NewName="TwitteCreatebyLangit.pengaturan.get_c1ee7c0686e54792b3535c7eecb27fb7f()" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.set_Label1(Label WithEventsValue)" NewName="TwitteCreatebyLangit.pengaturan.set_c1ee7c0686e54792b3535c7eecb27fb7f(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.get_Label2()" NewName="TwitteCreatebyLangit.pengaturan.get_c02c37015f9a7c2ed75de8dadc55d343a()" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.set_Label2(Label WithEventsValue)" NewName="TwitteCreatebyLangit.pengaturan.set_c02c37015f9a7c2ed75de8dadc55d343a(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.get_Label3()" NewName="TwitteCreatebyLangit.pengaturan.get_c8ffaa5410daaecc834e55466d9dee9ab()" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.set_Label3(Label WithEventsValue)" NewName="TwitteCreatebyLangit.pengaturan.set_c8ffaa5410daaecc834e55466d9dee9ab(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.get_GroupBox1()" NewName="TwitteCreatebyLangit.pengaturan.get_c836eb1dc736109fc118e41892d2edbe0()" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.set_GroupBox1(GroupBox WithEventsValue)" NewName="TwitteCreatebyLangit.pengaturan.set_c836eb1dc736109fc118e41892d2edbe0(GroupBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.get_GroupBox2()" NewName="TwitteCreatebyLangit.pengaturan.get_c6a6ea6f2b87badc8af77806bebf47bdb()" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.set_GroupBox2(GroupBox WithEventsValue)" NewName="TwitteCreatebyLangit.pengaturan.set_c6a6ea6f2b87badc8af77806bebf47bdb(GroupBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.get_txtUsername2()" NewName="TwitteCreatebyLangit.pengaturan.get_cee41ec851b3fad8df82e6d3d36157671()" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.set_txtUsername2(TextBox WithEventsValue)" NewName="TwitteCreatebyLangit.pengaturan.set_cee41ec851b3fad8df82e6d3d36157671(TextBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.get_Label6()" NewName="TwitteCreatebyLangit.pengaturan.get_c70608b950477612e1123268a3ccb4b12()" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.set_Label6(Label WithEventsValue)" NewName="TwitteCreatebyLangit.pengaturan.set_c70608b950477612e1123268a3ccb4b12(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.get_Label7()" NewName="TwitteCreatebyLangit.pengaturan.get_cfb532f47dc4379cd1f725a5475f0dffc()" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.set_Label7(Label WithEventsValue)" NewName="TwitteCreatebyLangit.pengaturan.set_cfb532f47dc4379cd1f725a5475f0dffc(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.get_txtUsername1()" NewName="TwitteCreatebyLangit.pengaturan.get_cb33ac6112fc0a04598d6728a81bdf1a8()" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.set_txtUsername1(TextBox WithEventsValue)" NewName="TwitteCreatebyLangit.pengaturan.set_cb33ac6112fc0a04598d6728a81bdf1a8(TextBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.get_txtTweet1()" NewName="TwitteCreatebyLangit.pengaturan.get_ce0435cd03bc04c8ffb30ac9bb78a05be()" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.set_txtTweet1(TextBox WithEventsValue)" NewName="TwitteCreatebyLangit.pengaturan.set_ce0435cd03bc04c8ffb30ac9bb78a05be(TextBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.get_GroupBox3()" NewName="TwitteCreatebyLangit.pengaturan.get_c8f4837d9e0fa1e73976170d31f77c4ec()" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.set_GroupBox3(GroupBox WithEventsValue)" NewName="TwitteCreatebyLangit.pengaturan.set_c8f4837d9e0fa1e73976170d31f77c4ec(GroupBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.get_Label4()" NewName="TwitteCreatebyLangit.pengaturan.get_c40d76dc483e8ebf8d5b952d60f80b080()" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.set_Label4(Label WithEventsValue)" NewName="TwitteCreatebyLangit.pengaturan.set_c40d76dc483e8ebf8d5b952d60f80b080(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.get_txtNama()" NewName="TwitteCreatebyLangit.pengaturan.get_ce381a7eb79a52cead27ab2091f2bcf38()" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.set_txtNama(TextBox WithEventsValue)" NewName="TwitteCreatebyLangit.pengaturan.set_ce381a7eb79a52cead27ab2091f2bcf38(TextBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.get_Label8()" NewName="TwitteCreatebyLangit.pengaturan.get_cf4bd00696e1d0b6166a17a7832bf999f()" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.set_Label8(Label WithEventsValue)" NewName="TwitteCreatebyLangit.pengaturan.set_cf4bd00696e1d0b6166a17a7832bf999f(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.get_Label10()" NewName="TwitteCreatebyLangit.pengaturan.get_c307698ff6ca844f5a0bdee1dfca4541e()" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.set_Label10(Label WithEventsValue)" NewName="TwitteCreatebyLangit.pengaturan.set_c307698ff6ca844f5a0bdee1dfca4541e(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.get_Label9()" NewName="TwitteCreatebyLangit.pengaturan.get_c4f50dd446d4274ddad9a84f0759a86e8()" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.set_Label9(Label WithEventsValue)" NewName="TwitteCreatebyLangit.pengaturan.set_c4f50dd446d4274ddad9a84f0759a86e8(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.get_GroupBox4()" NewName="TwitteCreatebyLangit.pengaturan.get_cd7690a9558aaf83d82c98f7eb004ec1d()" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.set_GroupBox4(GroupBox WithEventsValue)" NewName="TwitteCreatebyLangit.pengaturan.set_cd7690a9558aaf83d82c98f7eb004ec1d(GroupBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.get_Label11()" NewName="TwitteCreatebyLangit.pengaturan.get_ca9ca344c411442922d5b822b148689b7()" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.set_Label11(Label WithEventsValue)" NewName="TwitteCreatebyLangit.pengaturan.set_ca9ca344c411442922d5b822b148689b7(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.get_btnKeluar()" NewName="TwitteCreatebyLangit.pengaturan.get_cc7036b70b0a7fdc7d64be730bf013a70()" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.set_btnKeluar(Button WithEventsValue)" NewName="TwitteCreatebyLangit.pengaturan.set_cc7036b70b0a7fdc7d64be730bf013a70(Button c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.get_Label12()" NewName="TwitteCreatebyLangit.pengaturan.get_cc07ce0867d2390db577560f439d999dd()" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.set_Label12(Label WithEventsValue)" NewName="TwitteCreatebyLangit.pengaturan.set_cc07ce0867d2390db577560f439d999dd(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.get_btnAbout()" NewName="TwitteCreatebyLangit.pengaturan.get_cce93cc61d01c26b627fb29f211e63d30()" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.set_btnAbout(Button WithEventsValue)" NewName="TwitteCreatebyLangit.pengaturan.set_cce93cc61d01c26b627fb29f211e63d30(Button c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.get_cbAuto()" NewName="TwitteCreatebyLangit.pengaturan.get_cdb22ab73f25f783f01f238c6b586bba7()" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.set_cbAuto(CheckBox WithEventsValue)" NewName="TwitteCreatebyLangit.pengaturan.set_cdb22ab73f25f783f01f238c6b586bba7(CheckBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.get_btnTutup()" NewName="TwitteCreatebyLangit.pengaturan.get_cf40e9c2ab86036e555f06dfd488960ed()" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.set_btnTutup(Button WithEventsValue)" NewName="TwitteCreatebyLangit.pengaturan.set_cf40e9c2ab86036e555f06dfd488960ed(Button c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.get_Label5()" NewName="TwitteCreatebyLangit.pengaturan.get_c22c8a330f3106aeaff49dc4d76c46aa5()" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.set_Label5(Label WithEventsValue)" NewName="TwitteCreatebyLangit.pengaturan.set_c22c8a330f3106aeaff49dc4d76c46aa5(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.get_txtTweet2()" NewName="TwitteCreatebyLangit.pengaturan.get_cf17674dd06a77492691cd6272ad24043()" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.set_txtTweet2(TextBox WithEventsValue)" NewName="TwitteCreatebyLangit.pengaturan.set_cf17674dd06a77492691cd6272ad24043(TextBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.get_StatusStrip1()" NewName="TwitteCreatebyLangit.pengaturan.get_c396ae6cbea5aa113b16e175c34dae1d8()" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.set_StatusStrip1(StatusStrip WithEventsValue)" NewName="TwitteCreatebyLangit.pengaturan.set_c396ae6cbea5aa113b16e175c34dae1d8(StatusStrip c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.get_ToolStripStatusLabel1()" NewName="TwitteCreatebyLangit.pengaturan.get_c6d6d0cbfc87a8eb4ce10dfd81f8ba3f1()" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.set_ToolStripStatusLabel1(ToolStripStatusLabel WithEventsValue)" NewName="TwitteCreatebyLangit.pengaturan.set_c6d6d0cbfc87a8eb4ce10dfd81f8ba3f1(ToolStripStatusLabel c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.get_tsStat()" NewName="TwitteCreatebyLangit.pengaturan.get_cacd092a8039d8d5ef33d81e854c5022c()" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.set_tsStat(ToolStripStatusLabel WithEventsValue)" NewName="TwitteCreatebyLangit.pengaturan.set_cacd092a8039d8d5ef33d81e854c5022c(ToolStripStatusLabel c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.get_Label13()" NewName="TwitteCreatebyLangit.pengaturan.get_ca5fe42fc532157ddb8bdc88cd4a0d398()" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.set_Label13(Label WithEventsValue)" NewName="TwitteCreatebyLangit.pengaturan.set_ca5fe42fc532157ddb8bdc88cd4a0d398(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.get_lblAkunStat()" NewName="TwitteCreatebyLangit.pengaturan.get_c145927db28413ec4bee7d31e1ccef909()" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.set_lblAkunStat(Label WithEventsValue)" NewName="TwitteCreatebyLangit.pengaturan.set_c145927db28413ec4bee7d31e1ccef909(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.get_Label14()" NewName="TwitteCreatebyLangit.pengaturan.get_c65e09e69e2f289e809765fd3eaadbb78()" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.set_Label14(Label WithEventsValue)" NewName="TwitteCreatebyLangit.pengaturan.set_c65e09e69e2f289e809765fd3eaadbb78(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.get_lblNama()" NewName="TwitteCreatebyLangit.pengaturan.get_ceb00f74fa954cacac8f1552fd21a219f()" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.set_lblNama(Label WithEventsValue)" NewName="TwitteCreatebyLangit.pengaturan.set_ceb00f74fa954cacac8f1552fd21a219f(Label c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.get_btnLogout()" NewName="TwitteCreatebyLangit.pengaturan.get_c10c9940005e254f222490b5f24134bfc()" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.set_btnLogout(Button WithEventsValue)" NewName="TwitteCreatebyLangit.pengaturan.set_c10c9940005e254f222490b5f24134bfc(Button c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.profil_Load(Object sender, EventArgs e)" NewName="TwitteCreatebyLangit.pengaturan.c5ebcb5a5c1fc7d1924faa06c96e679f6(Object c730060d19264306a87999e69a02cf1b2, EventArgs cc32ccc2b805afc8ecd11b34497ef4d26)" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.btnKeluar_Click(Object sender, EventArgs e)" NewName="TwitteCreatebyLangit.pengaturan.ca5e9bcde44e8322cda80794668270f00(Object c730060d19264306a87999e69a02cf1b2, EventArgs cc32ccc2b805afc8ecd11b34497ef4d26)" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.Label12_Click(Object sender, EventArgs e)" NewName="TwitteCreatebyLangit.pengaturan.ced566bd05afc011650e665a7584d68cb(Object c730060d19264306a87999e69a02cf1b2, EventArgs cc32ccc2b805afc8ecd11b34497ef4d26)" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.btnAbout_Click(Object sender, EventArgs e)" NewName="TwitteCreatebyLangit.pengaturan.c10bcb3cb71c3df6d8dd50aaedf7e9c07(Object c730060d19264306a87999e69a02cf1b2, EventArgs cc32ccc2b805afc8ecd11b34497ef4d26)" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.btnUbah_Click(Object sender, EventArgs e)" NewName="TwitteCreatebyLangit.pengaturan.c701bdc6aa2b0cb6e22afe129a93e3ced(Object c730060d19264306a87999e69a02cf1b2, EventArgs cc32ccc2b805afc8ecd11b34497ef4d26)" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.btnTutup_Click(Object sender, EventArgs e)" NewName="TwitteCreatebyLangit.pengaturan.c8caa6b846fb643e61a9793f3f3098a5d(Object c730060d19264306a87999e69a02cf1b2, EventArgs cc32ccc2b805afc8ecd11b34497ef4d26)" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.btnAtur_Click(Object sender, EventArgs e)" NewName="TwitteCreatebyLangit.pengaturan.c7e6f50bfec08906fe34935707bf2f8f6(Object c730060d19264306a87999e69a02cf1b2, EventArgs cc32ccc2b805afc8ecd11b34497ef4d26)" />
+<Entry OldName="TwitteCreatebyLangit.pengaturan.btnLogout_Click(Object sender, EventArgs e)" NewName="TwitteCreatebyLangit.pengaturan.c8ec3a1d5bea94192da16836b3ecb16d2(Object c730060d19264306a87999e69a02cf1b2, EventArgs cc32ccc2b805afc8ecd11b34497ef4d26)" />
+<Entry OldName="TwitteCreatebyLangit.yopmail.InitializeComponent()" NewName="TwitteCreatebyLangit.yopmail.c54ea232b465c2f4fdd91f7bd6db82dd6()" />
+<Entry OldName="TwitteCreatebyLangit.yopmail.get_WebBrowser1()" NewName="TwitteCreatebyLangit.yopmail.get_c71f0b24b9da9702218a203abe7de8695()" />
+<Entry OldName="TwitteCreatebyLangit.yopmail.set_WebBrowser1(WebBrowser WithEventsValue)" NewName="TwitteCreatebyLangit.yopmail.set_c71f0b24b9da9702218a203abe7de8695(WebBrowser c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.yopmail.get_TextBox1()" NewName="TwitteCreatebyLangit.yopmail.get_c501c355aa15cebfb994da41b48012bd1()" />
+<Entry OldName="TwitteCreatebyLangit.yopmail.set_TextBox1(TextBox WithEventsValue)" NewName="TwitteCreatebyLangit.yopmail.set_c501c355aa15cebfb994da41b48012bd1(TextBox c79e16265dbd326d33ecf60e37df34323)" />
+<Entry OldName="TwitteCreatebyLangit.yopmail.yopmail_Activated(Object sender, EventArgs e)" NewName="TwitteCreatebyLangit.yopmail.c50a4636e64457715c07f3817689f04ed(Object c730060d19264306a87999e69a02cf1b2, EventArgs cc32ccc2b805afc8ecd11b34497ef4d26)" />
+<Entry OldName="TwitteCreatebyLangit.yopmail.yopmail_Load(Object sender, EventArgs e)" NewName="TwitteCreatebyLangit.yopmail.c3edbc291774996115779ff7ca45092cb(Object c730060d19264306a87999e69a02cf1b2, EventArgs cc32ccc2b805afc8ecd11b34497ef4d26)" />
+<Entry OldName="TwitteCreatebyLangit.yopmail.WebBrowser1_DocumentCompleted_1(Object sender, WebBrowserDocumentCompletedEventArgs e)" NewName="TwitteCreatebyLangit.yopmail.c5bf781cf8b22d604677b5d2caaab90fb(Object c730060d19264306a87999e69a02cf1b2, WebBrowserDocumentCompletedEventArgs cc32ccc2b805afc8ecd11b34497ef4d26)" />
+<Entry OldName="TwitteCreatebyLangit.yopmail.btnMasuk_Click(Object sender, EventArgs e)" NewName="TwitteCreatebyLangit.yopmail.cede9cbf384f913ea2dae767670e85774(Object c730060d19264306a87999e69a02cf1b2, EventArgs cc32ccc2b805afc8ecd11b34497ef4d26)" />
+<Entry OldName="TwitteCreatebyLangit.My.MyApplication" NewName="A.ce4ce23968fba576b21f4162c963da8c4" />
+<Entry OldName="TwitteCreatebyLangit.My.MyComputer" NewName="A.ca203d0ca34621fadbcb9f89f7c2c3071" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject+MyForms" NewName="A.cf843c93976f99982c8c04d1cb3be35e1+c3b67793f3760fa325b17cd406c10789b" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject+MyWebServices" NewName="A.cf843c93976f99982c8c04d1cb3be35e1+ca617e2e2057261bc90cf784a22e4fe08" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject+ThreadSafeObjectProvider`1" NewName="A.cf843c93976f99982c8c04d1cb3be35e1+c3ca36d2f6c415ac0f878031f56af51f4`1" />
+<Entry OldName="TwitteCreatebyLangit.My.MyProject" NewName="A.cf843c93976f99982c8c04d1cb3be35e1" />
+<Entry OldName="TwitteCreatebyLangit.My.InternalXmlHelper+RemoveNamespaceAttributesClosure" NewName="A.ccf07d637c870fe3ffa9aa0d10471d1d0+c26051331cb05046ca3513914209732b6" />
+<Entry OldName="TwitteCreatebyLangit.My.InternalXmlHelper" NewName="A.ccf07d637c870fe3ffa9aa0d10471d1d0" />
+<Entry OldName="TwitteCreatebyLangit.My.Resources.Resources" NewName="A.c5fdefedcf1115d8027e202f27bdbb995" />
+<Entry OldName="TwitteCreatebyLangit.My.MySettingsProperty" NewName="A.c7b9556f6c67e5abefd643eab1f97666c" />
+<Entry OldName="17d14f5c-a337-4978-8281-53493378c1071.vb" NewName="File0" />
+<Entry OldName="E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\My Project\Application.Designer.vb" NewName="File1" />
+<Entry OldName="17d14f5c-a337-4978-8281-53493378c1072.vb" NewName="File2" />
+<Entry OldName="E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\About.Designer.vb" NewName="File3" />
+<Entry OldName="E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\About.vb" NewName="File4" />
+<Entry OldName="E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\copy.Designer.vb" NewName="File5" />
+<Entry OldName="E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\harga.Designer.vb" NewName="File6" />
+<Entry OldName="E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\harga.vb" NewName="File7" />
+<Entry OldName="E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\login.Designer.vb" NewName="File8" />
+<Entry OldName="E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\login.vb" NewName="File9" />
+<Entry OldName="E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\main.Designer.vb" NewName="File10" />
+<Entry OldName="E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\main.vb" NewName="File11" />
+<Entry OldName="E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\mimiti.Designer.vb" NewName="File12" />
+<Entry OldName="E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\mimiti.vb" NewName="File13" />
+<Entry OldName="E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\My Project\Resources.Designer.vb" NewName="File14" />
+<Entry OldName="E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\My Project\Settings.Designer.vb" NewName="File15" />
+<Entry OldName="E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\pengaturan.Designer.vb" NewName="File16" />
+<Entry OldName="E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\pengaturan.vb" NewName="File17" />
+<Entry OldName="E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\yopmail.Designer.vb" NewName="File18" />
+<Entry OldName="E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\yopmail.vb" NewName="File19" />
+<Assembly Name="Twt"><Type Token="33554433" Name="&lt;Module&gt;" />
+<Method Token="100663297" Name="" Variables="" ParamCnt="0" />
+<Type Token="33554434" Name="TwitteCreatebyLangit.My.MyApplication" />
+<Method Token="100663298" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663299" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663300" Name="Main" Variables="Args;" ParamCnt="1" />
+<Method Token="100663301" Name="OnCreateMainForm" Variables="this;" ParamCnt="1" />
+<Field Token="67108865" Name="__ENCList" />
+<Type Token="33554436" Name="TwitteCreatebyLangit.My.MyComputer" />
+<Method Token="100663303" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Type Token="33554437" Name="TwitteCreatebyLangit.My.MyProject" />
+<Method Token="100663304" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663305" Name="get_Computer" Variables="Computer;" ParamCnt="0" />
+<Method Token="100663306" Name="get_Application" Variables="Application;" ParamCnt="0" />
+<Method Token="100663307" Name="get_User" Variables="User;" ParamCnt="0" />
+<Method Token="100663308" Name="get_Forms" Variables="Forms;" ParamCnt="0" />
+<Method Token="100663309" Name="get_WebServices" Variables="WebServices;" ParamCnt="0" />
+<Field Token="67108866" Name="m_ComputerObjectProvider" />
+<Field Token="67108867" Name="m_AppObjectProvider" />
+<Field Token="67108868" Name="m_UserObjectProvider" />
+<Field Token="67108869" Name="m_MyFormsObjectProvider" />
+<Field Token="67108870" Name="m_MyWebServicesObjectProvider" />
+<Type Token="33554439" Name="TwitteCreatebyLangit.My.MyProject/MyForms" />
+<Method Token="100663316" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663317" Name="get_About" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663318" Name="get_copy" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663319" Name="get_harga" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663320" Name="get_login" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663321" Name="get_main" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663322" Name="get_mimiti" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663323" Name="get_pengaturan" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663324" Name="get_yopmail" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663325" Name="set_About" Variables="this;Value;V_0;" ParamCnt="2" />
+<Method Token="100663326" Name="set_copy" Variables="this;Value;V_0;" ParamCnt="2" />
+<Method Token="100663327" Name="set_harga" Variables="this;Value;V_0;" ParamCnt="2" />
+<Method Token="100663328" Name="set_login" Variables="this;Value;V_0;" ParamCnt="2" />
+<Method Token="100663329" Name="set_main" Variables="this;Value;V_0;" ParamCnt="2" />
+<Method Token="100663330" Name="set_mimiti" Variables="this;Value;V_0;" ParamCnt="2" />
+<Method Token="100663331" Name="set_pengaturan" Variables="this;Value;V_0;" ParamCnt="2" />
+<Method Token="100663332" Name="set_yopmail" Variables="this;Value;V_0;" ParamCnt="2" />
+<Method Token="100663333" Name="Create__Instance__" Variables="Instance;Create__Instance__;BetterMessage;ex;" ParamCnt="1" />
+<Method Token="100663334" Name="Dispose__Instance__" Variables="this;instance;" ParamCnt="2" />
+<Method Token="100663335" Name="Equals" Variables="this;o;Equals;" ParamCnt="2" />
+<Method Token="100663336" Name="GetHashCode" Variables="this;GetHashCode;" ParamCnt="1" />
+<Method Token="100663337" Name="GetType" Variables="this;GetType;" ParamCnt="1" />
+<Method Token="100663338" Name="ToString" Variables="this;ToString;" ParamCnt="1" />
+<Field Token="67108872" Name="m_About" />
+<Field Token="67108873" Name="m_copy" />
+<Field Token="67108874" Name="m_harga" />
+<Field Token="67108875" Name="m_login" />
+<Field Token="67108876" Name="m_main" />
+<Field Token="67108877" Name="m_mimiti" />
+<Field Token="67108878" Name="m_pengaturan" />
+<Field Token="67108879" Name="m_yopmail" />
+<Field Token="67108880" Name="m_FormBeingCreated" />
+<Type Token="33554440" Name="TwitteCreatebyLangit.My.MyProject/MyWebServices" />
+<Method Token="100663339" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663340" Name="Equals" Variables="this;o;Equals;" ParamCnt="2" />
+<Method Token="100663341" Name="GetHashCode" Variables="this;GetHashCode;" ParamCnt="1" />
+<Method Token="100663342" Name="GetType" Variables="this;GetType;" ParamCnt="1" />
+<Method Token="100663343" Name="ToString" Variables="this;ToString;" ParamCnt="1" />
+<Method Token="100663344" Name="Create__Instance__" Variables="instance;Create__Instance__;" ParamCnt="1" />
+<Method Token="100663345" Name="Dispose__Instance__" Variables="this;instance;" ParamCnt="2" />
+<Type Token="33554441" Name="TwitteCreatebyLangit.My.MyProject/ThreadSafeObjectProvider`1" />
+<Method Token="100663346" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663347" Name="get_GetInstance" Variables="this;GetInstance;" ParamCnt="1" />
+<Field Token="67108881" Name="m_ThreadStaticValue" />
+<Type Token="33554442" Name="TwitteCreatebyLangit.My.InternalXmlHelper" />
+<Method Token="100663348" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663349" Name="get_Value" Variables="source;Value;item;" ParamCnt="1" />
+<Method Token="100663350" Name="set_Value" Variables="source;value;item;" ParamCnt="2" />
+<Method Token="100663351" Name="get_AttributeValue" Variables="source;name;AttributeValue;item;" ParamCnt="2" />
+<Method Token="100663352" Name="set_AttributeValue" Variables="source;name;value;item;" ParamCnt="3" />
+<Method Token="100663353" Name="get_AttributeValue" Variables="source;name;AttributeValue;" ParamCnt="2" />
+<Method Token="100663354" Name="set_AttributeValue" Variables="source;name;value;" ParamCnt="3" />
+<Method Token="100663355" Name="CreateAttribute" Variables="name;value;CreateAttribute;" ParamCnt="2" />
+<Method Token="100663356" Name="CreateNamespaceAttribute" Variables="name;ns;a;CreateNamespaceAttribute;" ParamCnt="2" />
+<Method Token="100663357" Name="RemoveNamespaceAttributes" Variables="ns;obj;RemoveNamespaceAttributes;elem;elems;" ParamCnt="2" />
+<Method Token="100663358" Name="RemoveNamespaceAttributes" Variables="ns;obj;RemoveNamespaceAttributes;elems;" ParamCnt="2" />
+<Method Token="100663359" Name="RemoveNamespaceAttributes" Variables="ns;e;RemoveNamespaceAttributes;a;n;ans;lastIndex;i;" ParamCnt="2" />
+<Method Token="100663360" Name="GetNamespace" Variables="xns;ns;GetNamespace;" ParamCnt="2" />
+<Type Token="33554443" Name="TwitteCreatebyLangit.My.InternalXmlHelper/RemoveNamespaceAttributesClosure" />
+<Method Token="100663361" Name=".ctor" Variables="this;ns;" ParamCnt="2" />
+<Method Token="100663362" Name="ProcessXElement" Variables="this;elem;ProcessXElement;" ParamCnt="2" />
+<Method Token="100663363" Name="ProcessObject" Variables="this;obj;elem;ProcessObject;" ParamCnt="2" />
+<Field Token="67108882" Name="m_ns" />
+<Type Token="33554444" Name="TwitteCreatebyLangit.About" />
+<Method Token="100663364" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663365" Name=".ctor" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663366" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663367" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Method Token="100663368" Name="get_TextBox1" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663369" Name="set_TextBox1" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663370" Name="get_GroupBox1" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663371" Name="set_GroupBox1" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663372" Name="get_Label4" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663373" Name="set_Label4" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663374" Name="get_Label3" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663375" Name="set_Label3" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663376" Name="get_Label2" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663377" Name="set_Label2" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663378" Name="get_Label1" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663379" Name="set_Label1" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663380" Name="get_TextBox4" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663381" Name="set_TextBox4" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663382" Name="get_TextBox3" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663383" Name="set_TextBox3" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663384" Name="get_TextBox2" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663385" Name="set_TextBox2" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663386" Name="get_PictureBox1" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663387" Name="set_PictureBox1" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663388" Name="get_GroupBox2" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663389" Name="set_GroupBox2" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663390" Name="get_Label5" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663391" Name="set_Label5" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663392" Name="get_Label6" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663393" Name="set_Label6" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663394" Name="get_Label7" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663395" Name="set_Label7" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663396" Name="get_Label8" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663397" Name="set_Label8" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663398" Name="get_Label9" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663399" Name="set_Label9" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663400" Name="get_TextBox5" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663401" Name="set_TextBox5" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663402" Name="Label5_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663403" Name="Label6_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663404" Name="About_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Field Token="67108883" Name="__ENCList" />
+<Field Token="67108884" Name="components" />
+<Field Token="67108885" Name="_TextBox1" />
+<Field Token="67108886" Name="_GroupBox1" />
+<Field Token="67108887" Name="_Label4" />
+<Field Token="67108888" Name="_Label3" />
+<Field Token="67108889" Name="_Label2" />
+<Field Token="67108890" Name="_Label1" />
+<Field Token="67108891" Name="_TextBox4" />
+<Field Token="67108892" Name="_TextBox3" />
+<Field Token="67108893" Name="_TextBox2" />
+<Field Token="67108894" Name="_PictureBox1" />
+<Field Token="67108895" Name="_GroupBox2" />
+<Field Token="67108896" Name="_Label5" />
+<Field Token="67108897" Name="_Label6" />
+<Field Token="67108898" Name="_Label7" />
+<Field Token="67108899" Name="_Label8" />
+<Field Token="67108900" Name="_Label9" />
+<Field Token="67108901" Name="_TextBox5" />
+<Type Token="33554445" Name="TwitteCreatebyLangit.copy" />
+<Method Token="100663405" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663406" Name=".ctor" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663407" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663408" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Method Token="100663409" Name="get_Panel1" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663410" Name="set_Panel1" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663411" Name="get_Label8" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663412" Name="set_Label8" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Field Token="67108902" Name="__ENCList" />
+<Field Token="67108903" Name="components" />
+<Field Token="67108904" Name="_Panel1" />
+<Field Token="67108905" Name="_Label8" />
+<Type Token="33554446" Name="TwitteCreatebyLangit.harga" />
+<Method Token="100663413" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663414" Name=".ctor" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663415" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663416" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Method Token="100663417" Name="get_Panel1" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663418" Name="set_Panel1" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663419" Name="get_Panel2" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663420" Name="set_Panel2" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663421" Name="get_Panel3" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663422" Name="set_Panel3" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663423" Name="get_Label7" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663424" Name="set_Label7" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663425" Name="get_Label1" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663426" Name="set_Label1" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663427" Name="get_Label2" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663428" Name="set_Label2" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663429" Name="get_Label3" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663430" Name="set_Label3" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663431" Name="get_Label4" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663432" Name="set_Label4" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663433" Name="get_Label5" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663434" Name="set_Label5" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663435" Name="get_Label6" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663436" Name="set_Label6" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663437" Name="get_Label8" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663438" Name="set_Label8" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663439" Name="get_Label9" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663440" Name="set_Label9" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663441" Name="get_PictureBox1" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663442" Name="set_PictureBox1" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663443" Name="get_PictureBox2" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663444" Name="set_PictureBox2" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663445" Name="get_PictureBox3" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663446" Name="set_PictureBox3" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663447" Name="get_PictureBox4" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663448" Name="set_PictureBox4" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663449" Name="get_PictureBox5" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663450" Name="set_PictureBox5" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663451" Name="get_PictureBox6" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663452" Name="set_PictureBox6" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663453" Name="get_PictureBox8" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663454" Name="set_PictureBox8" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663455" Name="get_PictureBox9" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663456" Name="set_PictureBox9" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663457" Name="get_PictureBox10" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663458" Name="set_PictureBox10" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663459" Name="get_PictureBox11" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663460" Name="set_PictureBox11" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663461" Name="get_PictureBox13" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663462" Name="set_PictureBox13" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663463" Name="get_PictureBox14" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663464" Name="set_PictureBox14" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663465" Name="get_PictureBox15" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663466" Name="set_PictureBox15" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663467" Name="get_PictureBox16" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663468" Name="set_PictureBox16" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663469" Name="get_PictureBox17" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663470" Name="set_PictureBox17" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663471" Name="get_PictureBox18" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663472" Name="set_PictureBox18" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663473" Name="get_btnOrder1" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663474" Name="set_btnOrder1" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663475" Name="get_btnOrder2" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663476" Name="set_btnOrder2" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663477" Name="get_btnOrder3" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663478" Name="set_btnOrder3" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663479" Name="get_Label11" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663480" Name="set_Label11" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663481" Name="get_Label12" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663482" Name="set_Label12" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663483" Name="get_Label13" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663484" Name="set_Label13" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663485" Name="get_Label14" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663486" Name="set_Label14" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663487" Name="get_btnTutup" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663488" Name="set_btnTutup" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663489" Name="get_PictureBox12" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663490" Name="set_PictureBox12" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663491" Name="get_PictureBox7" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663492" Name="set_PictureBox7" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663493" Name="btnOrder1_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663494" Name="btnOrder2_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663495" Name="btnOrder3_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663496" Name="harga_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663497" Name="btnTutup_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Field Token="67108906" Name="__ENCList" />
+<Field Token="67108907" Name="components" />
+<Field Token="67108908" Name="_Panel1" />
+<Field Token="67108909" Name="_Panel2" />
+<Field Token="67108910" Name="_Panel3" />
+<Field Token="67108911" Name="_Label7" />
+<Field Token="67108912" Name="_Label1" />
+<Field Token="67108913" Name="_Label2" />
+<Field Token="67108914" Name="_Label3" />
+<Field Token="67108915" Name="_Label4" />
+<Field Token="67108916" Name="_Label5" />
+<Field Token="67108917" Name="_Label6" />
+<Field Token="67108918" Name="_Label8" />
+<Field Token="67108919" Name="_Label9" />
+<Field Token="67108920" Name="_PictureBox1" />
+<Field Token="67108921" Name="_PictureBox2" />
+<Field Token="67108922" Name="_PictureBox3" />
+<Field Token="67108923" Name="_PictureBox4" />
+<Field Token="67108924" Name="_PictureBox5" />
+<Field Token="67108925" Name="_PictureBox6" />
+<Field Token="67108926" Name="_PictureBox8" />
+<Field Token="67108927" Name="_PictureBox9" />
+<Field Token="67108928" Name="_PictureBox10" />
+<Field Token="67108929" Name="_PictureBox11" />
+<Field Token="67108930" Name="_PictureBox13" />
+<Field Token="67108931" Name="_PictureBox14" />
+<Field Token="67108932" Name="_PictureBox15" />
+<Field Token="67108933" Name="_PictureBox16" />
+<Field Token="67108934" Name="_PictureBox17" />
+<Field Token="67108935" Name="_PictureBox18" />
+<Field Token="67108936" Name="_btnOrder1" />
+<Field Token="67108937" Name="_btnOrder2" />
+<Field Token="67108938" Name="_btnOrder3" />
+<Field Token="67108939" Name="_Label11" />
+<Field Token="67108940" Name="_Label12" />
+<Field Token="67108941" Name="_Label13" />
+<Field Token="67108942" Name="_Label14" />
+<Field Token="67108943" Name="_btnTutup" />
+<Field Token="67108944" Name="_PictureBox12" />
+<Field Token="67108945" Name="_PictureBox7" />
+<Type Token="33554448" Name="TwitteCreatebyLangit.login" />
+<Method Token="100663505" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663506" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663507" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663508" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Method Token="100663509" Name="get_txtUser" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663510" Name="set_txtUser" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663511" Name="get_txtPass" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663512" Name="set_txtPass" Variables="this;WithEventsValue;V_0;V_1;V_2;" ParamCnt="2" />
+<Method Token="100663513" Name="get_PictureBox1" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663514" Name="set_PictureBox1" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663515" Name="get_PictureBox2" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663516" Name="set_PictureBox2" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663517" Name="get_btnLogin" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663518" Name="set_btnLogin" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663519" Name="get_btnEx" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663520" Name="set_btnEx" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663521" Name="get_Label1" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663522" Name="set_Label1" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663523" Name="get_Label2" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663524" Name="set_Label2" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663525" Name="get_Label3" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663526" Name="set_Label3" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663527" Name="get_Label4" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663528" Name="set_Label4" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663529" Name="get_btnUser" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663530" Name="set_btnUser" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663531" Name="get_lblTgl" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663532" Name="set_lblTgl" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663533" Name="login_Load" Variables="this;sender;e;ex;" ParamCnt="3" />
+<Method Token="100663534" Name="langit" Variables="this;versi;" ParamCnt="1" />
+<Method Token="100663535" Name="btnEx_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663536" Name="kedip" Variables="this;a;a;" ParamCnt="1" />
+<Method Token="100663537" Name="tglts" Variables="this;dates;" ParamCnt="1" />
+<Method Token="100663538" Name="logins" Variables="this;id;id;id;" ParamCnt="1" />
+<Method Token="100663539" Name="btnLogin_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663540" Name="Label4_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663541" Name="btnUser_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663542" Name="txtUser_MouseClick" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663543" Name="txtPass_KeyPress" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663544" Name="txtPass_MouseClick" Variables="this;sender;e;" ParamCnt="3" />
+<Field Token="67108948" Name="__ENCList" />
+<Field Token="67108949" Name="components" />
+<Field Token="67108950" Name="_txtUser" />
+<Field Token="67108951" Name="_txtPass" />
+<Field Token="67108952" Name="_PictureBox1" />
+<Field Token="67108953" Name="_PictureBox2" />
+<Field Token="67108954" Name="_btnLogin" />
+<Field Token="67108955" Name="_btnEx" />
+<Field Token="67108956" Name="_Label1" />
+<Field Token="67108957" Name="_Label2" />
+<Field Token="67108958" Name="_Label3" />
+<Field Token="67108959" Name="_Label4" />
+<Field Token="67108960" Name="_btnUser" />
+<Field Token="67108961" Name="_lblTgl" />
+<Field Token="67108962" Name="db" />
+<Field Token="67108963" Name="perintah" />
+<Field Token="67108964" Name="baca" />
+<Type Token="33554450" Name="TwitteCreatebyLangit.main" />
+<Method Token="100663548" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663549" Name=".ctor" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663550" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663551" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Method Token="100663552" Name="get_btnLogout" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663553" Name="set_btnLogout" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663554" Name="get_WebBrowser1" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663555" Name="set_WebBrowser1" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663556" Name="get_btnTambah" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663557" Name="set_btnTambah" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663558" Name="get_TextBox1" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663559" Name="set_TextBox1" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663560" Name="get_btnBaru" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663561" Name="set_btnBaru" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663562" Name="get_TextBox2" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663563" Name="set_TextBox2" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663564" Name="get_TextBox3" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663565" Name="set_TextBox3" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663566" Name="get_btnEmail" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663567" Name="set_btnEmail" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663568" Name="get_txtIds" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663569" Name="set_txtIds" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663570" Name="get_Label1" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663571" Name="set_Label1" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663572" Name="get_Label2" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663573" Name="set_Label2" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663574" Name="get_Label3" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663575" Name="set_Label3" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663576" Name="get_GroupBox1" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663577" Name="set_GroupBox1" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663578" Name="get_btnProf" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663579" Name="set_btnProf" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663580" Name="get_txtUrl" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663581" Name="set_txtUrl" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663582" Name="get_lblSelesai" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663583" Name="set_lblSelesai" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663584" Name="get_lbHasil" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663585" Name="set_lbHasil" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663586" Name="get_btnCopy" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663587" Name="set_btnCopy" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663588" Name="get_btnSimpan" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663589" Name="set_btnSimpan" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663590" Name="get_sf1" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663591" Name="set_sf1" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663592" Name="get_lblNama" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663593" Name="set_lblNama" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663594" Name="get_lblBio" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663595" Name="set_lblBio" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663596" Name="get_lblUrl" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663597" Name="set_lblUrl" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663598" Name="get_lblLokasi" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663599" Name="set_lblLokasi" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663600" Name="get_lblAkun1" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663601" Name="set_lblAkun1" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663602" Name="get_lblAkun2" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663603" Name="set_lblAkun2" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663604" Name="get_lblTweet1" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663605" Name="set_lblTweet1" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663606" Name="get_lblAuto" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663607" Name="set_lblAuto" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663608" Name="get_cbAuto" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663609" Name="set_cbAuto" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663610" Name="get_GroupBox2" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663611" Name="set_GroupBox2" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663612" Name="get_GroupBox3" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663613" Name="set_GroupBox3" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663614" Name="get_PictureBox1" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663615" Name="set_PictureBox1" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663616" Name="get_GroupBox4" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663617" Name="set_GroupBox4" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663618" Name="get_Label4" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663619" Name="set_Label4" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663620" Name="get_btnKeluar" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663621" Name="set_btnKeluar" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663622" Name="get_btnAbout" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663623" Name="set_btnAbout" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663624" Name="get_GroupBox5" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663625" Name="set_GroupBox5" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663626" Name="get_lblTweet2" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663627" Name="set_lblTweet2" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663628" Name="get_WebBrowser2" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663629" Name="set_WebBrowser2" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663630" Name="get_GroupBox6" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663631" Name="set_GroupBox6" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663632" Name="get_Label5" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663633" Name="set_Label5" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663634" Name="get_lblProses" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663635" Name="set_lblProses" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663636" Name="Button1_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663637" Name="Form1_Activated" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663638" Name="Form1_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663639" Name="baru" Variables="this;a;b;Letters;Rnd;Rnd1;Rnda;SB;SBa;SBX;Temp;Temp1;Tempa;i;i;i;count;gue;gue;gue;count;i;i;i;count;" ParamCnt="1" />
+<Method Token="100663640" Name="email" Variables="this;" ParamCnt="1" />
+<Method Token="100663641" Name="Button4_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663642" Name="btnBaru_Click" Variables="this;sender;e;ex;" ParamCnt="3" />
+<Method Token="100663643" Name="btnProf_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663644" Name="btnTambah_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663645" Name="FadeFormIn" Variables="this;FormOpacity;" ParamCnt="1" />
+<Method Token="100663646" Name="FadeFormOut" Variables="this;FormOpacity;" ParamCnt="1" />
+<Method Token="100663647" Name="btnCopy_Click" Variables="this;sender;e;s1;ex;" ParamCnt="3" />
+<Method Token="100663648" Name="btnSimpan_Click" Variables="this;sender;e;i;w;" ParamCnt="3" />
+<Method Token="100663649" Name="cbAuto_CheckedChanged" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663650" Name="btnKeluar_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663651" Name="btnAbout_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663652" Name="WebBrowser1_DocumentCompleted" Variables="this;sender;e;ex;" ParamCnt="3" />
+<Method Token="100663653" Name="WebBrowser2_DocumentCompleted" Variables="this;sender;e;" ParamCnt="3" />
+<Field Token="67108966" Name="__ENCList" />
+<Field Token="67108967" Name="components" />
+<Field Token="67108968" Name="_btnLogout" />
+<Field Token="67108969" Name="_WebBrowser1" />
+<Field Token="67108970" Name="_btnTambah" />
+<Field Token="67108971" Name="_TextBox1" />
+<Field Token="67108972" Name="_btnBaru" />
+<Field Token="67108973" Name="_TextBox2" />
+<Field Token="67108974" Name="_TextBox3" />
+<Field Token="67108975" Name="_btnEmail" />
+<Field Token="67108976" Name="_txtIds" />
+<Field Token="67108977" Name="_Label1" />
+<Field Token="67108978" Name="_Label2" />
+<Field Token="67108979" Name="_Label3" />
+<Field Token="67108980" Name="_GroupBox1" />
+<Field Token="67108981" Name="_btnProf" />
+<Field Token="67108982" Name="_txtUrl" />
+<Field Token="67108983" Name="_lblSelesai" />
+<Field Token="67108984" Name="_lbHasil" />
+<Field Token="67108985" Name="_btnCopy" />
+<Field Token="67108986" Name="_btnSimpan" />
+<Field Token="67108987" Name="_sf1" />
+<Field Token="67108988" Name="_lblNama" />
+<Field Token="67108989" Name="_lblBio" />
+<Field Token="67108990" Name="_lblUrl" />
+<Field Token="67108991" Name="_lblLokasi" />
+<Field Token="67108992" Name="_lblAkun1" />
+<Field Token="67108993" Name="_lblAkun2" />
+<Field Token="67108994" Name="_lblTweet1" />
+<Field Token="67108995" Name="_lblAuto" />
+<Field Token="67108996" Name="_cbAuto" />
+<Field Token="67108997" Name="_GroupBox2" />
+<Field Token="67108998" Name="_GroupBox3" />
+<Field Token="67108999" Name="_PictureBox1" />
+<Field Token="67109000" Name="_GroupBox4" />
+<Field Token="67109001" Name="_Label4" />
+<Field Token="67109002" Name="_btnKeluar" />
+<Field Token="67109003" Name="_btnAbout" />
+<Field Token="67109004" Name="_GroupBox5" />
+<Field Token="67109005" Name="_lblTweet2" />
+<Field Token="67109006" Name="_WebBrowser2" />
+<Field Token="67109007" Name="_GroupBox6" />
+<Field Token="67109008" Name="_Label5" />
+<Field Token="67109009" Name="_lblProses" />
+<Field Token="67109010" Name="doc" />
+<Type Token="33554451" Name="TwitteCreatebyLangit.mimiti" />
+<Method Token="100663654" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663655" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663656" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663657" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Method Token="100663658" Name="get_PictureBox1" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663659" Name="set_PictureBox1" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663660" Name="get_pb" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663661" Name="set_pb" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663662" Name="get_Panel1" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663663" Name="set_Panel1" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663664" Name="get_Label1" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663665" Name="set_Label1" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663666" Name="get_Timer1" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663667" Name="set_Timer1" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663668" Name="get_Label2" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663669" Name="set_Label2" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663670" Name="get_komponen" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663671" Name="set_komponen" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663672" Name="get_loadtx" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663673" Name="set_loadtx" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663674" Name="opendb" Variables="this;ex;" ParamCnt="1" />
+<Method Token="100663675" Name="mimiti_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663676" Name="Timer1_Tick" Variables="this;sender;e;" ParamCnt="3" />
+<Field Token="67109011" Name="__ENCList" />
+<Field Token="67109012" Name="components" />
+<Field Token="67109013" Name="_PictureBox1" />
+<Field Token="67109014" Name="_pb" />
+<Field Token="67109015" Name="_Panel1" />
+<Field Token="67109016" Name="_Label1" />
+<Field Token="67109017" Name="_Timer1" />
+<Field Token="67109018" Name="_Label2" />
+<Field Token="67109019" Name="_komponen" />
+<Field Token="67109020" Name="_loadtx" />
+<Field Token="67109021" Name="db" />
+<Type Token="33554452" Name="TwitteCreatebyLangit.My.Resources.Resources" />
+<Method Token="100663677" Name="get_ResourceManager" Variables="ResourceManager;temp;" ParamCnt="0" />
+<Method Token="100663678" Name="get_Culture" Variables="Culture;" ParamCnt="0" />
+<Method Token="100663679" Name="set_Culture" Variables="Value;" ParamCnt="1" />
+<Method Token="100663680" Name="get_check_ok_mark_ready_checkmark_agree_accept_approved_choice_good_correct_verify_sign_32" Variables="check_ok_mark_ready_checkmark_agree_accept_approved_choice_good_correct_verify_sign_32;obj;" ParamCnt="0" />
+<Method Token="100663681" Name="get_danger_alert_attention_error_warning_delete_remove_2_48" Variables="danger_alert_attention_error_warning_delete_remove_2_48;obj;" ParamCnt="0" />
+<Method Token="100663682" Name="get_facebook_logo" Variables="facebook_logo;obj;" ParamCnt="0" />
+<Method Token="100663683" Name="get_Langit_Application" Variables="Langit_Application;obj;" ParamCnt="0" />
+<Method Token="100663684" Name="get_twitter_logo" Variables="obj;twitter_logo;" ParamCnt="0" />
+<Field Token="67109022" Name="resourceMan" />
+<Field Token="67109023" Name="resourceCulture" />
+<Type Token="33554453" Name="TwitteCreatebyLangit.My.MySettings" />
+<Method Token="100663685" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663686" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663687" Name="AutoSaveSettings" Variables="sender;e;" ParamCnt="2" />
+<Method Token="100663688" Name="get_Default" Variables="Default;" ParamCnt="0" />
+<Field Token="67109024" Name="defaultInstance" />
+<Field Token="67109025" Name="addedHandler" />
+<Field Token="67109026" Name="addedHandlerLockObject" />
+<Type Token="33554455" Name="TwitteCreatebyLangit.My.MySettingsProperty" />
+<Method Token="100663696" Name="get_Settings" Variables="Settings;" ParamCnt="0" />
+<Type Token="33554457" Name="TwitteCreatebyLangit.pengaturan" />
+<Method Token="100663700" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663701" Name=".ctor" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663702" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663703" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Method Token="100663704" Name="get_txtBio" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663705" Name="set_txtBio" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663706" Name="get_txtLokasi" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663707" Name="set_txtLokasi" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663708" Name="get_txtUrl" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663709" Name="set_txtUrl" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663710" Name="get_btnSelesai" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663711" Name="set_btnSelesai" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663712" Name="get_Label1" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663713" Name="set_Label1" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663714" Name="get_Label2" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663715" Name="set_Label2" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663716" Name="get_Label3" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663717" Name="set_Label3" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663718" Name="get_GroupBox1" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663719" Name="set_GroupBox1" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663720" Name="get_GroupBox2" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663721" Name="set_GroupBox2" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663722" Name="get_txtUsername2" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663723" Name="set_txtUsername2" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663724" Name="get_Label6" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663725" Name="set_Label6" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663726" Name="get_Label7" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663727" Name="set_Label7" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663728" Name="get_txtUsername1" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663729" Name="set_txtUsername1" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663730" Name="get_txtTweet1" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663731" Name="set_txtTweet1" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663732" Name="get_GroupBox3" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663733" Name="set_GroupBox3" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663734" Name="get_Label4" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663735" Name="set_Label4" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663736" Name="get_txtNama" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663737" Name="set_txtNama" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663738" Name="get_Label8" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663739" Name="set_Label8" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663740" Name="get_Label10" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663741" Name="set_Label10" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663742" Name="get_Label9" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663743" Name="set_Label9" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663744" Name="get_GroupBox4" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663745" Name="set_GroupBox4" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663746" Name="get_Label11" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663747" Name="set_Label11" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663748" Name="get_btnKeluar" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663749" Name="set_btnKeluar" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663750" Name="get_Label12" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663751" Name="set_Label12" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663752" Name="get_btnAbout" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663753" Name="set_btnAbout" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663754" Name="get_cbAuto" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663755" Name="set_cbAuto" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663756" Name="get_btnTutup" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663757" Name="set_btnTutup" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663758" Name="get_Label5" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663759" Name="set_Label5" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663760" Name="get_txtTweet2" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663761" Name="set_txtTweet2" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663762" Name="get_StatusStrip1" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663763" Name="set_StatusStrip1" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663764" Name="get_ToolStripStatusLabel1" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663765" Name="set_ToolStripStatusLabel1" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663766" Name="get_tsStat" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663767" Name="set_tsStat" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663768" Name="get_Label13" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663769" Name="set_Label13" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663770" Name="get_lblAkunStat" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663771" Name="set_lblAkunStat" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663772" Name="get_Label14" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663773" Name="set_Label14" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663774" Name="get_lblNama" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663775" Name="set_lblNama" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663776" Name="get_btnLogout" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663777" Name="set_btnLogout" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663778" Name="profil_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663779" Name="btnKeluar_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663780" Name="Label12_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663781" Name="btnAbout_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663782" Name="btnUbah_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663783" Name="btnTutup_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663784" Name="btnAtur_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663785" Name="btnLogout_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Field Token="67109033" Name="__ENCList" />
+<Field Token="67109034" Name="components" />
+<Field Token="67109035" Name="_txtBio" />
+<Field Token="67109036" Name="_txtLokasi" />
+<Field Token="67109037" Name="_txtUrl" />
+<Field Token="67109038" Name="_btnSelesai" />
+<Field Token="67109039" Name="_Label1" />
+<Field Token="67109040" Name="_Label2" />
+<Field Token="67109041" Name="_Label3" />
+<Field Token="67109042" Name="_GroupBox1" />
+<Field Token="67109043" Name="_GroupBox2" />
+<Field Token="67109044" Name="_txtUsername2" />
+<Field Token="67109045" Name="_Label6" />
+<Field Token="67109046" Name="_Label7" />
+<Field Token="67109047" Name="_txtUsername1" />
+<Field Token="67109048" Name="_txtTweet1" />
+<Field Token="67109049" Name="_GroupBox3" />
+<Field Token="67109050" Name="_Label4" />
+<Field Token="67109051" Name="_txtNama" />
+<Field Token="67109052" Name="_Label8" />
+<Field Token="67109053" Name="_Label10" />
+<Field Token="67109054" Name="_Label9" />
+<Field Token="67109055" Name="_GroupBox4" />
+<Field Token="67109056" Name="_Label11" />
+<Field Token="67109057" Name="_btnKeluar" />
+<Field Token="67109058" Name="_Label12" />
+<Field Token="67109059" Name="_btnAbout" />
+<Field Token="67109060" Name="_cbAuto" />
+<Field Token="67109061" Name="_btnTutup" />
+<Field Token="67109062" Name="_Label5" />
+<Field Token="67109063" Name="_txtTweet2" />
+<Field Token="67109064" Name="_StatusStrip1" />
+<Field Token="67109065" Name="_ToolStripStatusLabel1" />
+<Field Token="67109066" Name="_tsStat" />
+<Field Token="67109067" Name="_Label13" />
+<Field Token="67109068" Name="_lblAkunStat" />
+<Field Token="67109069" Name="_Label14" />
+<Field Token="67109070" Name="_lblNama" />
+<Field Token="67109071" Name="_btnLogout" />
+<Type Token="33554458" Name="TwitteCreatebyLangit.yopmail" />
+<Method Token="100663786" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663787" Name=".ctor" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663788" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663789" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Method Token="100663790" Name="get_WebBrowser1" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663791" Name="set_WebBrowser1" Variables="this;WithEventsValue;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663792" Name="get_TextBox1" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663793" Name="set_TextBox1" Variables="this;WithEventsValue;" ParamCnt="2" />
+<Method Token="100663794" Name="yopmail_Activated" Variables="this;sender;e;ex;" ParamCnt="3" />
+<Method Token="100663795" Name="yopmail_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663796" Name="WebBrowser1_DocumentCompleted_1" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663797" Name="btnMasuk_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Field Token="67109072" Name="__ENCList" />
+<Field Token="67109073" Name="components" />
+<Field Token="67109074" Name="_WebBrowser1" />
+<Field Token="67109075" Name="_TextBox1" />
+<Type Token="33554435" Name="A.AssemblyInfoAttribute" />
+<Method Token="100663302" Name="" Variables="this;str;" ParamCnt="2" />
+</Assembly><File OldName="17d14f5c-a337-4978-8281-53493378c1071.vb" NewName="File0" />
+<File OldName="E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\My Project\Application.Designer.vb" NewName="File1" />
+<File OldName="17d14f5c-a337-4978-8281-53493378c1072.vb" NewName="File2" />
+<File OldName="E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\About.Designer.vb" NewName="File3" />
+<File OldName="E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\About.vb" NewName="File4" />
+<File OldName="E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\copy.Designer.vb" NewName="File5" />
+<File OldName="E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\harga.Designer.vb" NewName="File6" />
+<File OldName="E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\harga.vb" NewName="File7" />
+<File OldName="E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\login.Designer.vb" NewName="File8" />
+<File OldName="E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\login.vb" NewName="File9" />
+<File OldName="E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\main.Designer.vb" NewName="File10" />
+<File OldName="E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\main.vb" NewName="File11" />
+<File OldName="E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\mimiti.Designer.vb" NewName="File12" />
+<File OldName="E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\mimiti.vb" NewName="File13" />
+<File OldName="E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\My Project\Resources.Designer.vb" NewName="File14" />
+<File OldName="E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\My Project\Settings.Designer.vb" NewName="File15" />
+<File OldName="E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\pengaturan.Designer.vb" NewName="File16" />
+<File OldName="E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\pengaturan.vb" NewName="File17" />
+<File OldName="E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\yopmail.Designer.vb" NewName="File18" />
+<File OldName="E:\Sakola\Twitter Akun Creator Bot\Upload\Twt - Final\Twt\yopmail.vb" NewName="File19" />
+</Mappings>
